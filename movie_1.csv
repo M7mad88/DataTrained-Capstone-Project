@@ -1,0 +1,1750 @@
+Serial no,Movie Name,Director_1,Director_2,Director_3,Duration,Year,Ratings,Metascore
+1,The Dark Knight,Christopher Nolan,nan,nan,152,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson,nan,nan,201,2003,9.0,94
+3,Inception,Christopher Nolan,nan,nan,148,2010,8.8,74
+4,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,nan,nan,178,2001,8.8,92
+5,The Lord of the Rings: The Two Towers,Peter Jackson,nan,nan,179,2002,8.8,87
+6,The Matrix,Lana Wachowsk,Lilly Wachowski,nan,136,1999,8.7,73
+7,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershn,nan,nan,124,1980,8.7,82
+8,Soorarai Pottru,Sudha Kongara,nan,nan,153,2020,8.7,nan
+9,Star Wars,George Luca,nan,nan,121,1977,8.6,90
+10,Terminator 2: Judgment Day,James Cameron,nan,nan,137,1991,8.6,75
+11,Shichinin no samurai,Akira Kurosawa,nan,nan,207,1954,8.6,98
+12,Seppuku,Masaki Kobayash,nan,nan,133,1962,8.6,85
+13,Sita Ramam,Hanu Raghavapud,nan,nan,163,2022,8.6,nan
+14,Léon,Luc Besson,nan,nan,110,1994,8.5,64
+15,Gladiator,Ridley S,nan,nan,155,2000,8.5,67
+16,Avengers: Endgame,Anthony Ru,Joe Russo,nan,181,2019,8.4,78
+17,Spider-Man: Into the Spider-Verse,Bob Persich,Peter Ramsey,Rodney Rothman,117,2018,8.4,87
+18,Raiders of the Lost Ark,Steven Spielberg,nan,nan,115,1981,8.4,85
+19,Avengers: Infinity War,Anthony Ru,Joe Russo,nan,149,2018,8.4,68
+20,Oldeuboi,Park Chan-wook,nan,nan,120,2003,8.4,77
+21,The Dark Knight Rises,Christopher Nolan,nan,nan,164,2012,8.4,78
+22,Aliens,James Cameron,nan,nan,137,1986,8.4,84
+23,Kaithi,Lokesh Kanagaraj,nan,nan,145,2019,8.4,nan
+24,Asuran,Vetrimaaran,nan,nan,141,2019,8.4,nan
+25,Heat,Michael Mann,nan,nan,170,1995,8.3,76
+26,Top Gun: Maverick,Joseph Kosinsk,nan,nan,130,2022,8.3,78
+27,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,nan,nan,131,1983,8.3,58
+28,Mononoke-hime,Hayao Miyazak,nan,nan,134,1997,8.3,76
+29,North by Northwest,Alfred Hitchcock,nan,nan,136,1959,8.3,98
+30,Kantara,Rishab Shetty,nan,nan,148,2022,8.3,nan
+31,Dangal,Nitesh Tiwa,nan,nan,161,2016,8.3,nan
+32,K.G.F: Chapter 2,Prashanth Neel,nan,nan,168,2022,8.3,nan
+33,Vikram,Lokesh Kanagaraj,nan,nan,175,2022,8.3,nan
+34,Ratsasan,Ram Kuma,nan,nan,170,2018,8.3,nan
+35,Shershaah,Vishnuvardhan,nan,nan,135,2021,8.3,nan
+36,Guardians of the Galaxy Vol. 3,James Gunn,nan,nan,150,2023,8.2,64
+37,Spider-Man: No Way Home,Jon Wa,nan,nan,148,2021,8.2,71
+38,Jurassic Park,Steven Spielberg,nan,nan,127,1993,8.2,68
+39,1917,Sam Mend,nan,nan,119,2019,8.2,78
+40,Kill Bill: Vol. 1,Quentin Tarantin,nan,nan,111,2003,8.2,69
+41,Indiana Jones and the Last Crusade,Steven Spielberg,nan,nan,127,1989,8.2,65
+42,Batman Begins,Christopher Nolan,nan,nan,140,2005,8.2,70
+43,Die Hard,John McTiernan,nan,nan,132,1988,8.2,72
+44,V for Vendetta,James McTeigu,nan,nan,132,2005,8.2,62
+45,Kimetsu no Yaiba: Mugen Ressha-Hen,Haruo Sotozak,nan,nan,117,2020,8.2,72
+46,Vikram Vedha,Gaya,Pushkar,Gowtham Selvaraj,147,2017,8.2,nan
+47,Ran,Akira Kurosawa,nan,nan,162,1985,8.2,97
+48,Baahubali 2: The Conclusion,S.S. Rajamoul,nan,nan,167,2017,8.2,nan
+49,Yôjinbô,Akira Kurosawa,nan,nan,110,1961,8.2,93
+50,Sherlock Jr.,Buster Keaton,nan,nan,45,1924,8.2,nan
+51,Gangs of Wasseypur,Anurag Kashyap,nan,nan,321,2012,8.2,89
+52,Rangasthalam,Sukuma,nan,nan,170,2018,8.2,nan
+53,K.G.F: Chapter 1,Prashanth Neel,nan,nan,156,2018,8.2,nan
+54,Uri: The Surgical Strike,Aditya Dha,nan,nan,138,2019,8.2,nan
+55,Dag II,Alper Cagla,nan,nan,135,2016,8.2,nan
+56,Paan Singh Tomar,Tigmanshu Dhulia,nan,nan,135,2012,8.2,nan
+57,Mad Max: Fury Road,George Mill,nan,nan,120,2015,8.1,90
+58,Ford v Ferrari,James Mangold,nan,nan,152,2019,8.1,81
+59,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinsk,nan,nan,143,2003,8.1,63
+60,Blade Runner,Ridley S,nan,nan,117,1982,8.1,84
+61,The Terminator,James Cameron,nan,nan,107,1984,8.1,84
+62,Logan,James Mangold,nan,nan,137,2017,8.1,77
+63,"Lock, Stock and Two Smoking Barrels",Guy Ritch,nan,nan,107,1998,8.1,66
+64,How to Train Your Dragon,an DeBl,Chris Sanders,nan,98,2010,8.1,75
+65,Warrior,Gavin O'Conn,nan,nan,140,2011,8.1,71
+66,Rush,Ron Howard,nan,nan,123,2013,8.1,74
+67,The Iron Giant,Brad Bird,nan,nan,86,1999,8.1,85
+68,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",Hideaki Ann,Kazuya Tsurumaki,nan,87,1997,8.1,nan
+69,Kakushi-toride no san-akunin,Akira Kurosawa,nan,nan,139,1958,8.1,89
+70,The General,Clyde Bruckman,Buster Keaton,nan,67,1926,8.1,nan
+71,White Heat,Raoul Walsh,nan,nan,114,1949,8.1,nan
+72,A Wednesday,Neeraj Pandey,nan,nan,104,2008,8.1,nan
+73,Bajrangi Bhaijaan,Kabir Khan,Mehmet Tutkun,nan,163,2015,8.1,nan
+74,Sholay,Ramesh Sippy,nan,nan,204,1975,8.1,nan
+75,Major,Sashi Kiran Tikka,nan,nan,150,2022,8.1,nan
+76,Hera Pheri,Priyadarshan,nan,nan,156,2000,8.1,nan
+77,Thuppakki,A.R. Murugad,nan,nan,165,2012,8.1,nan
+78,Sarfarosh,John Mathew Matthan,nan,nan,174,1999,8.1,nan
+79,Kaththi,A.R. Murugad,nan,nan,166,2014,8.1,nan
+80,John Wick: Chapter 4,Chad Stahelsk,nan,nan,169,2023,8.0,78
+81,Guardians of the Galaxy,James Gunn,nan,nan,121,2014,8.0,76
+82,Dune: Part One,nis Villeneuv,nan,nan,155,2021,8.0,74
+83,Blade Runner 2049,nis Villeneuv,nan,nan,164,2017,8.0,81
+84,Deadpool,Tim Mill,nan,nan,108,2016,8.0,65
+85,The Avengers,Joss Whedon,nan,nan,143,2012,8.0,69
+86,Zack Snyder's Justice League,Zack Snyd,nan,nan,242,2021,8.0,54
+87,Casino Royale,Martin Campbell,nan,nan,144,2006,8.0,80
+88,The Incredibles,Brad Bird,nan,nan,115,2004,8.0,90
+89,The Revenant,Alejandro G. Iñárritu,nan,nan,156,2015,8.0,76
+90,Akira,Katsuhiro Ôtom,nan,nan,124,1988,8.0,67
+91,Kill Bill: Vol. 2,Quentin Tarantin,nan,nan,137,2004,8.0,83
+92,Ip Man,Wilson Yip,nan,nan,106,2008,8.0,59
+93,The Bourne Ultimatum,Paul Greengra,nan,nan,115,2007,8.0,85
+94,WolfWalkers,Tomm M,Ross Stewart,nan,103,2020,8.0,87
+95,Mou gaan dou,Andrew Lau,Alan Mak,nan,101,2002,8.0,75
+96,Bãhubali: The Beginning,S.S. Rajamoul,nan,nan,159,2015,8.0,nan
+97,Tropa de Elite,José Padilha,nan,nan,115,2007,8.0,33
+98,Haider,Vishal Bhardwaj,nan,nan,160,2014,8.0,nan
+99,Tropa de Elite 2: O Inimigo Agora é Outro,José Padilha,nan,nan,115,2010,8.0,71
+100,Sanjuro,Akira Kurosawa,nan,nan,96,1962,8.0,nan
+101,Andaz Apna Apna,Rajkumar Santosh,nan,nan,160,1994,8.0,nan
+102,Taegukgi hwinalrimyeo,Je-kyu Kang,nan,nan,140,2004,8.0,64
+103,Karthikeya 2,Chandoo Mond,nan,nan,150,2022,8.0,nan
+104,Nefes: Vatan Sagolsun,Levent Sem,nan,nan,128,2009,8.0,nan
+105,Arjun Reddy,Sandeep Reddy Vanga,nan,nan,182,2017,8.0,nan
+106,1 - Nenokkadine,Sukuma,nan,nan,170,2014,8.0,nan
+107,Avatar,James Cameron,nan,nan,162,2009,7.9,83
+108,Iron Man,Jon Favreau,nan,nan,126,2008,7.9,79
+109,Star Trek,J.J. Abram,nan,nan,127,2009,7.9,82
+110,Thor: Ragnarok,Taika Wa,nan,nan,130,2017,7.9,74
+111,Edge of Tomorrow,ug Liman,nan,nan,113,2014,7.9,71
+112,Children of Men,Alfonso Cuarón,nan,nan,109,2006,7.9,84
+113,X-Men: Days of Future Past,Bryan Sing,nan,nan,132,2014,7.9,75
+114,The Bourne Identity,ug Liman,nan,nan,119,2002,7.9,68
+115,District 9,Neill Blomkamp,nan,nan,112,2009,7.9,81
+116,The Blues Brothers,John Land,nan,nan,133,1980,7.9,60
+117,The Adventures of Robin Hood,Michael Curtiz,William Keighley,nan,102,1938,7.9,97
+118,Wo hu cang long,Ang L,nan,nan,120,2000,7.9,94
+119,Kôkaku kidôtai,Mamoru Osh,nan,nan,83,1995,7.9,76
+120,Per un pugno di dollari,Sergio Leon,nan,nan,99,1964,7.9,65
+121,The Wild Bunch,Sam Peckinpah,nan,nan,145,1969,7.9,98
+122,Serbuan maut 2: Berandal,Gareth Evan,nan,nan,150,2014,7.9,71
+123,Ying xiong,Yimou Zhang,nan,nan,120,2002,7.9,85
+124,Letters from Iwo Jima,Clint Eastwood,nan,nan,141,2006,7.9,89
+125,Taeksi woonjunsa,Hun Jang,nan,nan,137,2017,7.9,69
+126,Baby,Neeraj Pandey,nan,nan,159,2015,7.9,nan
+127,Airlift,Raja Menon,nan,nan,130,2016,7.9,nan
+128,Vishwaroopam,Kamal Haasan,nan,nan,148,2013,7.9,nan
+129,Everything Everywhere All at Once,aniel Kwan,Daniel Scheinert,nan,139,2022,7.8,81
+130,The Batman,Matt Reev,nan,nan,176,2022,7.8,72
+131,Im Westen nichts Neues,Edward Berg,nan,nan,148,2022,7.8,76
+132,The Gentlemen,Guy Ritch,nan,nan,113,2019,7.8,51
+133,Rogue One,Gareth Edward,nan,nan,133,2016,7.8,65
+134,RRR (Rise Roar Revolt),S.S. Rajamoul,nan,nan,187,2022,7.8,83
+135,Drive,Nicolas Winding Refn,nan,nan,100,2011,7.8,78
+136,Ghostbusters,Ivan Reitman,nan,nan,105,1984,7.8,71
+137,Apocalypto,Mel Gibson,nan,nan,139,2006,7.8,68
+138,Dunkirk,Christopher Nolan,nan,nan,106,2017,7.8,94
+139,Star Wars: Episode VII - The Force Awakens,J.J. Abram,nan,nan,138,2015,7.8,80
+140,Predator,John McTiernan,nan,nan,107,1987,7.8,47
+141,Taken,Pierre Morel,nan,nan,90,2008,7.8,51
+142,Captain America: Civil War,Anthony Ru,Joe Russo,nan,147,2016,7.8,75
+143,Skyfall,Sam Mend,nan,nan,143,2012,7.8,81
+144,Hot Fuzz,Edgar Wrigh,nan,nan,121,2007,7.8,81
+145,Captain America: The Winter Soldier,Anthony Ru,Joe Russo,nan,136,2014,7.8,70
+146,Serenity,Joss Whedon,nan,nan,119,2005,7.8,74
+147,The Last Samurai,Edward Zwick,nan,nan,154,2003,7.8,55
+148,Ang-ma-reul bo-at-da,Jee-woon Kim,nan,nan,144,2010,7.8,67
+149,Captain Phillips,Paul Greengra,nan,nan,134,2013,7.8,82
+150,Big Hero 6,n Hall,Chris Williams,nan,102,2014,7.8,74
+151,The Fugitive,Andrew Dav,nan,nan,130,1993,7.8,87
+152,Thirteen Lives,Ron Howard,nan,nan,147,2022,7.8,66
+153,The Fighter,avid O. Russell,nan,nan,116,2010,7.8,79
+154,How to Train Your Dragon 2,an DeBl,nan,nan,102,2014,7.8,77
+155,Chugyeokja,Na Hong-jin,nan,nan,125,2008,7.8,64
+156,Jûbê ninpûchô,Yoshiaki Kawaj,nan,nan,94,1993,7.8,nan
+157,"Aguirre, der Zorn Gottes",Werner Herzog,nan,nan,95,1972,7.8,nan
+158,Batman: Mask of the Phantasm,"Eric Radomski,Kevin Altieri,Boyd Kirkland,Frank Paur,Dan Riba,Bruce Timm",nan,nan,76,1993,7.8,65
+159,Cowboy Bebop: Tengoku no tobira,"Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,Yoshiyuki Tak",nan,nan,115,2001,7.8,61
+160,Minnal Murali,Basil Joseph,nan,nan,158,2021,7.8,nan
+161,Dip huet seung hung,John W,nan,nan,111,1989,7.8,82
+162,Knockin' on Heaven's Door,Thomas Jahn,nan,nan,87,1997,7.8,nan
+163,Avatar: The Way of Water,James Cameron,nan,nan,192,2022,7.7,67
+164,Kingsman: The Secret Service,Matthew Vaughn,nan,nan,129,2014,7.7,60
+165,Black Hawk Down,Ridley S,nan,nan,144,2001,7.7,74
+166,Mission: Impossible - Fallout,Christopher McQua,nan,nan,147,2018,7.7,86
+167,3:10 to Yuma,James Mangold,nan,nan,122,2007,7.7,76
+168,The Count of Monte Cristo,Kevin Reynold,nan,nan,131,2002,7.7,61
+169,The Dirty Dozen,Robert Aldrich,nan,nan,150,1967,7.7,73
+170,The Last of the Mohicans,Michael Mann,nan,nan,112,1992,7.7,76
+171,Goldfinger,Guy Hamilton,nan,nan,110,1964,7.7,87
+172,Man on Fire,Tony S,nan,nan,146,2004,7.7,47
+173,Training Day,Antoine Fuqua,nan,nan,122,2001,7.7,69
+174,The Lego Movie,Phil Lord,Christopher Miller,nan,100,2014,7.7,83
+175,X: First Class,Matthew Vaughn,nan,nan,131,2011,7.7,65
+176,First Blood,Ted Kotcheff,nan,nan,93,1982,7.7,61
+177,The Magnificent Seven,John Sturg,nan,nan,128,1960,7.7,74
+178,Star Trek Into Darkness,J.J. Abram,nan,nan,132,2013,7.7,72
+179,The Boondock Saints,Troy Duffy,nan,nan,108,1999,7.7,44
+180,Kung fu,Stephen Chow,nan,nan,99,2004,7.7,78
+181,Dirty Harry,n Siegel,Clint Eastwood,nan,102,1971,7.7,87
+182,Star Trek II: The Wrath of Khan,Nicholas Mey,nan,nan,113,1982,7.7,68
+183,The Bourne Supremacy,Paul Greengra,nan,nan,108,2004,7.7,73
+184,The Longest Day,"Ken Annakin,Andrew Marton,Gerd Oswald,Bernhard Wicki,Darryl F. Zanuck",nan,nan,178,1962,7.7,75
+185,Bonnie and Clyde,Arthur Penn,nan,nan,111,1967,7.7,86
+186,The French Connection,William Friedkin,nan,nan,104,1971,7.7,94
+187,Badlands,Terrence Malick,nan,nan,94,1973,7.7,93
+188,Ponniyin Selvan: I,Mani Ratnam,nan,nan,167,2022,7.7,nan
+189,Kubo and the Two Strings,Travis Knigh,nan,nan,101,2016,7.7,84
+190,Lola rennt,Tom Tykw,nan,nan,81,1998,7.7,77
+191,Key Largo,John Huston,nan,nan,100,1948,7.7,nan
+192,Ajeossi,Jeong-beom L,nan,nan,119,2010,7.7,nan
+193,Lat sau san taam,John W,nan,nan,128,1992,7.7,nan
+194,Scarface,Howard Hawk,Richard Rosson,nan,93,1932,7.7,90
+195,Gongdong gyeongbi guyeok JSA,Park Chan-wook,nan,nan,110,2000,7.7,58
+196,Doragon bôru chô: Burorî,Tatsuya Nagamin,nan,nan,100,2018,7.7,59
+197,Eega,S.S. Rajamoul,nan,nan,145,2012,7.7,nan
+198,Raazi,Meghna Gulza,nan,nan,138,2018,7.7,nan
+199,Udta Punjab,Abhishek Chaubey,nan,nan,148,2016,7.7,nan
+200,Guy Ritchie's The Covenant,Guy Ritch,nan,nan,123,2023,7.6,63
+201,Guardians of the Galaxy Vol. 2,James Gunn,nan,nan,136,2017,7.6,67
+202,Sicario,nis Villeneuv,nan,nan,121,2015,7.6,82
+203,The Fifth Element,Luc Besson,nan,nan,126,1997,7.6,52
+204,Deadpool 2,avid Leitch,nan,nan,119,2018,7.6,66
+205,Star Wars: Episode III - Revenge of the Sith,George Luca,nan,nan,140,2005,7.6,68
+206,Watchmen,Zack Snyd,nan,nan,162,2009,7.6,56
+207,Baby Driver,Edgar Wrigh,nan,nan,113,2017,7.6,86
+208,300,Zack Snyd,nan,nan,117,2006,7.6,52
+209,The Warriors,Walter Hill,nan,nan,93,1979,7.6,65
+210,Kick-Ass,Matthew Vaughn,nan,nan,117,2010,7.6,66
+211,Busanhaeng,Sang-ho Yeon,nan,nan,118,2016,7.6,73
+212,Incredibles 2,Brad Bird,nan,nan,118,2018,7.6,80
+213,Kung Fu Panda,Mark Osborn,John Stevenson,nan,92,2008,7.6,74
+214,Zombieland,Ruben Fleisch,nan,nan,88,2009,7.6,73
+215,Harry Potter and the Half-Blood Prince,avid Ya,nan,nan,153,2009,7.6,78
+216,Minority Report,Steven Spielberg,nan,nan,145,2002,7.6,80
+217,RoboCop,Paul Verhoeven,nan,nan,102,1987,7.6,70
+218,Creed,Ryan Coogl,nan,nan,133,2015,7.6,82
+219,Sherlock Holmes,Guy Ritch,nan,nan,128,2009,7.6,57
+220,Falling Down,Joel Schumach,nan,nan,113,1993,7.6,56
+221,Dawn of the Planet of the Apes,Matt Reev,nan,nan,130,2014,7.6,79
+222,Rise of the Planet of the Apes,Rupert Wya,nan,nan,105,2011,7.6,68
+223,Serbuan maut,Gareth Evan,nan,nan,101,2011,7.6,73
+224,End of Watch,avid Ay,nan,nan,109,2012,7.6,68
+225,Mad Max 2,George Mill,nan,nan,96,1981,7.6,77
+226,Enter the Dragon,Robert Clou,nan,nan,102,1973,7.6,83
+227,Star Trek: First Contact,Jonathan Frak,nan,nan,111,1996,7.6,71
+228,Batoru rowaiaru,Kinji Fukasaku,nan,nan,114,2000,7.6,81
+229,Lethal Weapon,Richard Donn,nan,nan,109,1987,7.6,68
+230,Die Hard with a Vengeance,John McTiernan,nan,nan,128,1995,7.6,58
+231,Only the Brave,Joseph Kosinsk,nan,nan,134,2017,7.6,72
+232,Escape from Alcatraz,n Siegel,nan,nan,112,1979,7.6,76
+233,Where Eagles Dare,Brian G. Hutton,nan,nan,158,1968,7.6,63
+234,Hotel Mumbai,Anthony Mara,nan,nan,123,2018,7.6,62
+235,United 93,Paul Greengra,nan,nan,111,2006,7.6,90
+236,The Taking of Pelham One Two Three,Joseph Sargen,nan,nan,104,1974,7.6,68
+237,Pushpa: The Rise - Part 1,Sukuma,nan,nan,179,2021,7.6,nan
+238,Huo Yuan Jia,Ronny Yu,nan,nan,104,2006,7.6,70
+239,Ludo,Anurag Basu,nan,nan,150,2020,7.6,nan
+240,Vampire Hunter D: Bloodlust,Jack Fletch,Yoshiaki Kawajiri,nan,103,2000,7.6,62
+241,Celda 211,aniel Monzón,nan,nan,113,2009,7.6,nan
+242,Evangelion Shin Gekijôban: Jo,Masayuk,Kazuya Tsurumaki,Hideaki Anno,98,2007,7.6,66
+243,Rupan sansei: Kariosutoro no shiro,Hayao Miyazak,nan,nan,100,1979,7.6,72
+244,Bakemono no ko,Mamoru Hosoda,nan,nan,119,2015,7.6,65
+245,Ölümlü Dünya,Ali Atay,nan,nan,107,2018,7.6,nan
+246,The Hunger Games: Catching Fire,Francis Lawren,nan,nan,146,2013,7.5,76
+247,Total Recall,Paul Verhoeven,nan,nan,113,1990,7.5,60
+248,Indiana Jones and the Temple of Doom,Steven Spielberg,nan,nan,118,1984,7.5,57
+249,Scott Pilgrim vs. the World,Edgar Wrigh,nan,nan,112,2010,7.5,69
+250,Fury,avid Ay,nan,nan,134,2014,7.5,64
+251,Batman,Tim Burton,nan,nan,126,1989,7.5,69
+252,The Crow,Alex Proya,nan,nan,102,1994,7.5,71
+253,Harry Potter and the Order of the Phoenix,avid Ya,nan,nan,138,2007,7.5,71
+254,Lone Survivor,Peter Berg,nan,nan,121,2013,7.5,60
+255,Doctor Strange,Scott Derrickson,nan,nan,115,2016,7.5,72
+256,Collateral,Michael Mann,nan,nan,120,2004,7.5,71
+257,Master and Commander: The Far Side of the World,Peter W,nan,nan,138,2003,7.5,81
+258,It's a Mad Mad Mad Mad World,Stanley Kram,nan,nan,210,1963,7.5,59
+259,Enemy at the Gates,Jean-Jacques Annaud,nan,nan,131,2001,7.5,53
+260,Upgrade,Leigh Whannell,nan,nan,100,2018,7.5,67
+261,Munich,Steven Spielberg,nan,nan,164,2005,7.5,74
+262,Retfærdighedens ryttere,Anders Thomas Jensen,nan,nan,116,2020,7.5,81
+263,Source Code,uncan Jon,nan,nan,93,2011,7.5,74
+264,The Hunt for Red October,John McTiernan,nan,nan,135,1990,7.5,58
+265,Grindhouse,"Robert Rodriguez,Eli Roth,Quentin Tarantino,Edgar Wright,Rob Zomb",nan,nan,191,2007,7.5,77
+266,Midnight Run,Martin B,nan,nan,126,1988,7.5,78
+267,The Guns of Navarone,J. Lee Thompson,nan,nan,158,1961,7.5,72
+268,Hodejegerne,Morten Tyldum,nan,nan,100,2011,7.5,72
+269,Ging chaat goo si,Jackie Chan,Chi-Hwa Chen,nan,100,1985,7.5,78
+270,Tora! Tora! Tora!,"Richard Fleischer,Kinji Fukasaku,Toshio Masuda,Akira Kurosawa",nan,nan,144,1970,7.5,46
+271,Yip Man 2,Wilson Yip,nan,nan,108,2010,7.5,67
+272,Jûsan-nin no shikaku,Takashi Miik,nan,nan,141,2010,7.5,84
+273,Dalkomhan insaeng,Jee-woon Kim,nan,nan,119,2005,7.5,nan
+274,Shi mian mai fu,Yimou Zhang,nan,nan,119,2004,7.5,89
+275,Jui kuen II,Chia-Liang Liu,Jackie Chan,nan,102,1994,7.5,74
+276,Sinsegye,Park Hoon-jung,nan,nan,135,2013,7.5,58
+277,Zatôichi,Takeshi Kitan,nan,nan,116,2003,7.5,75
+278,Tanhaji: The Unsung Warrior,Om Rau,nan,nan,135,2020,7.5,nan
+279,Delhi Belly,Abhinay,Akshat Verma,nan,103,2011,7.5,66
+280,L'instinct de mort,Jean-François Rich,nan,nan,113,2008,7.5,71
+281,Jodhaa Akbar,Ashutosh Gowarik,nan,nan,213,2008,7.5,69
+282,Mersal,Atl,nan,nan,172,2017,7.5,nan
+283,Waar,Bilal Lasha,nan,nan,130,2013,7.5,nan
+284,John Wick,Chad Stahelsk,David Leitch,nan,101,2014,7.4,68
+285,Spider-Man: Homecoming,Jon Wa,nan,nan,133,2017,7.4,73
+286,Nobody,Ilya Naishull,nan,nan,92,2021,7.4,64
+287,Spider-Man,Sam Raim,nan,nan,121,2002,7.4,73
+288,John Wick: Chapter 3 - Parabellum,Chad Stahelsk,nan,nan,130,2019,7.4,73
+289,John Wick: Chapter 2,Chad Stahelsk,nan,nan,122,2017,7.4,75
+290,Shang-Chi and the Legend of the Ten Rings,n Daniel Cretton,nan,nan,132,2021,7.4,71
+291,Mission: Impossible - Rogue Nation,Christopher McQua,nan,nan,131,2015,7.4,75
+292,The Last Duel,Ridley S,nan,nan,152,2021,7.4,67
+293,Wonder Woman,Patty Jenkin,nan,nan,141,2017,7.4,76
+294,Ready Player One,Steven Spielberg,nan,nan,140,2018,7.4,64
+295,The Rock,Michael Bay,nan,nan,136,1996,7.4,58
+296,Mission: Impossible - Ghost Protocol,Brad Bird,nan,nan,132,2011,7.4,73
+297,Spider-Man: Far from Home,Jon Wa,nan,nan,129,2019,7.4,69
+298,Superman,Richard Donn,nan,nan,143,1978,7.4,82
+299,A History of Violence,avid Cronenberg,nan,nan,96,2005,7.4,82
+300,Predestination,Michael Spierig,Peter Spierig,nan,97,2014,7.4,69
+301,Spider-Man 2,Sam Raim,nan,nan,127,2004,7.4,83
+302,Law Abiding Citizen,F. Gary Gray,nan,nan,109,2009,7.4,34
+303,X2,Bryan Sing,nan,nan,134,2003,7.4,68
+304,Looper,Rian Johnson,nan,nan,119,2012,7.4,84
+305,War for the Planet of the Apes,Matt Reev,nan,nan,140,2017,7.4,82
+306,How to Train Your Dragon: The Hidden World,an DeBl,nan,nan,104,2019,7.4,71
+307,Sherlock Holmes: A Game of Shadows,Guy Ritch,nan,nan,129,2011,7.4,48
+308,Open Range,Kevin Costn,nan,nan,139,2003,7.4,67
+309,From Russia with Love,Terence Young,nan,nan,115,1963,7.4,83
+310,Bullitt,Peter Ya,nan,nan,114,1968,7.4,81
+311,Thief,Michael Mann,nan,nan,123,1981,7.4,78
+312,Black Dynamite,Scott Sand,nan,nan,84,2009,7.4,65
+313,Rurôni Kenshin: Meiji kenkaku roman tan,Keishi Otom,nan,nan,134,2012,7.4,nan
+314,Mission Majnu,Shantanu Bagch,nan,nan,129,2023,7.4,nan
+315,Zui quan,Woo-Ping Yuen,nan,nan,111,1978,7.4,68
+316,Samâ uôzu,Mamoru Hosoda,nan,nan,114,2009,7.4,63
+317,L'ennemi public n°1,Jean-François Rich,nan,nan,133,2008,7.4,72
+318,Dungeons & Dragons: Honor Among Thieves,John Francis Daley,Jonathan Goldstein,nan,134,2023,7.3,72
+319,Bullet Train,avid Leitch,nan,nan,127,2022,7.3,49
+320,Fast Five,Justin Lin,nan,nan,130,2011,7.3,66
+321,Dawn of the Dead,Zack Snyd,nan,nan,101,2004,7.3,59
+322,Tenet,Christopher Nolan,nan,nan,150,2020,7.3,69
+323,No Time to Die,Cary Joji Fukunaga,nan,nan,163,2021,7.3,68
+324,Ant-Man,Peyton Reed,nan,nan,117,2015,7.3,64
+325,Starship Troopers,Paul Verhoeven,nan,nan,129,1997,7.3,52
+326,True Lies,James Cameron,nan,nan,141,1994,7.3,63
+327,The Accountant,Gavin O'Conn,nan,nan,128,2016,7.3,51
+328,Beverly Hills Cop,Martin B,nan,nan,105,1984,7.3,66
+329,Speed,Jan de Bon,nan,nan,116,1994,7.3,78
+330,Black Panther,Ryan Coogl,nan,nan,134,2018,7.3,88
+331,Men in Black,Barry Sonnenfeld,nan,nan,98,1997,7.3,71
+332,The Nice Guys,Shane Black,nan,nan,116,2016,7.3,70
+333,13 Hours,Michael Bay,nan,nan,144,2016,7.3,48
+334,Alita: Battle Angel,Robert Rodriguez,nan,nan,122,2019,7.3,53
+335,The Karate Kid,John G. Avildsen,nan,nan,126,1984,7.3,60
+336,X-Men,Bryan Sing,nan,nan,104,2000,7.3,64
+337,Avengers: Age of Ultron,Joss Whedon,nan,nan,141,2015,7.3,66
+338,Face/Off,John W,nan,nan,138,1997,7.3,82
+339,American Sniper,Clint Eastwood,nan,nan,133,2014,7.3,72
+340,El Camino: A Breaking Bad Movie,Vince Gilligan,nan,nan,122,2019,7.3,72
+341,Enemy of the State,Tony S,nan,nan,132,1998,7.3,67
+342,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinsk,nan,nan,151,2006,7.3,53
+343,Patriots Day,Peter Berg,nan,nan,133,2016,7.3,69
+344,Raya and the Last Dragon,"n Hall,Carlos López Estrada,Paul Briggs,John Ripa",nan,nan,107,2021,7.3,74
+345,Equilibrium,Kurt Wimm,nan,nan,107,2002,7.3,33
+346,The Lego Batman Movie,Chris McKay,nan,nan,104,2017,7.3,75
+347,Southpaw,Antoine Fuqua,nan,nan,124,2015,7.3,57
+348,Megamind,Tom McGrath,nan,nan,95,2010,7.3,63
+349,Layer Cake,Matthew Vaughn,nan,nan,105,2004,7.3,73
+350,Okja,Bong Joon H,nan,nan,120,2017,7.3,75
+351,The Adventures of Tintin,Steven Spielberg,nan,nan,107,2011,7.3,68
+352,Star Trek IV: The Voyage Home,Leonard Nimoy,nan,nan,119,1986,7.3,71
+353,The Negotiator,F. Gary Gray,nan,nan,140,1998,7.3,62
+354,To Live and Die in L.A.,William Friedkin,nan,nan,116,1985,7.3,81
+355,Invictus,Clint Eastwood,nan,nan,134,2009,7.3,74
+356,The Next Three Days,Paul Hagg,nan,nan,133,2010,7.3,52
+357,Nikita,Luc Besson,nan,nan,117,1990,7.3,56
+358,Crimson Tide,Tony S,nan,nan,116,1995,7.3,66
+359,Grosse Pointe Blank,George Armitag,nan,nan,107,1997,7.3,76
+360,Assault on Precinct 13,John Carpen,nan,nan,91,1976,7.3,89
+361,Eye in the Sky,Gavin Hood,nan,nan,102,2015,7.3,73
+362,The Getaway,Sam Peckinpah,nan,nan,123,1972,7.3,55
+363,Running Scared,Wayne Kram,nan,nan,122,2006,7.3,41
+364,Siu Lam juk kau,Stephen Chow,nan,nan,113,2001,7.3,68
+365,Jason and the Argonauts,n Chaffey,nan,nan,104,1963,7.3,69
+366,Get Carter,Mike Hodg,nan,nan,112,1971,7.3,80
+367,Max Manus,Joachim Rønning,Espen Sandberg,nan,118,2008,7.3,60
+368,Bacurau,Juliano Dornell,Kleber Mendonça Filho,nan,131,2019,7.3,82
+369,Ghajini,A.R. Murugad,nan,nan,186,2008,7.3,nan
+370,Chi bi,John W,nan,nan,288,2008,7.3,73
+371,Der Baader Meinhof Komplex,Uli Edel,nan,nan,150,2008,7.3,76
+372,Master,Lokesh Kanagaraj,nan,nan,179,2021,7.3,nan
+373,The Suicide Squad,James Gunn,nan,nan,132,2021,7.2,72
+374,The Hunger Games,Gary R,nan,nan,142,2012,7.2,68
+375,From Dusk Till Dawn,Robert Rodriguez,nan,nan,108,1996,7.2,48
+376,The Equalizer,Antoine Fuqua,nan,nan,132,2014,7.2,57
+377,21 Jump Street,Phil Lord,Christopher Miller,nan,109,2012,7.2,69
+378,The Man from U.N.C.L.E.,Guy Ritch,nan,nan,116,2015,7.2,56
+379,Point Break,Kathryn Bigelow,nan,nan,122,1991,7.2,59
+380,Kingdom of Heaven,Ridley S,nan,nan,144,2005,7.2,63
+381,The Croods,Kirk DeM,Chris Sanders,nan,98,2013,7.2,55
+382,Natural Born Killers,Oliver Ston,nan,nan,119,1994,7.2,74
+383,I Am Legend,Francis Lawren,nan,nan,101,2007,7.2,65
+384,King Kong,Peter Jackson,nan,nan,187,2005,7.2,81
+385,Unbroken,Angelina Jol,nan,nan,137,2014,7.2,59
+386,They Live,John Carpen,nan,nan,94,1988,7.2,55
+387,Willow,Ron Howard,nan,nan,126,1988,7.2,47
+388,Silverado,Lawrence Kasdan,nan,nan,133,1985,7.2,64
+389,The Patriot,Roland Emmerich,nan,nan,165,2000,7.2,63
+390,The Matrix Reloaded,Lana Wachowsk,Lilly Wachowski,nan,138,2003,7.2,62
+391,GoldenEye,Martin Campbell,nan,nan,130,1995,7.2,65
+392,The Life Aquatic with Steve Zissou,Wes Anderson,nan,nan,119,2004,7.2,62
+393,Big Trouble in Little China,John Carpen,nan,nan,99,1986,7.2,53
+394,RocknRolla,Guy Ritch,nan,nan,114,2008,7.2,53
+395,Rango,Gore Verbinsk,nan,nan,107,2011,7.2,75
+396,Old Henry,Potsy Poncirol,nan,nan,99,2021,7.2,69
+397,Ronin,John Frankenheim,nan,nan,122,1998,7.2,67
+398,War Horse,Steven Spielberg,nan,nan,146,2011,7.2,72
+399,Dr. No,Terence Young,nan,nan,110,1962,7.2,78
+400,Friday Night Lights,Peter Berg,nan,nan,118,2004,7.2,70
+401,Team America: World Police,Trey Park,nan,nan,98,2004,7.2,64
+402,Star Trek VI: The Undiscovered Country,Nicholas Mey,nan,nan,110,1991,7.2,65
+403,Kung Fu Panda 2,Jennifer Yuh Nelson,nan,nan,90,2011,7.2,67
+404,The Italian Job,Peter Collinson,nan,nan,99,1969,7.2,70
+405,Anthropoid,Sean Ell,nan,nan,120,2016,7.2,59
+406,Batman v Superman: Dawn of Justice (Ultimate Edition),Zack Snyd,nan,nan,182,2016,7.2,nan
+407,In the Line of Fire,Wolfgang Petersen,nan,nan,128,1993,7.2,74
+408,Rise of the Guardians,Peter Ramsey,nan,nan,97,2012,7.2,58
+409,Lethal Weapon 2,Richard Donn,nan,nan,114,1989,7.2,70
+410,Vanishing Point,Richard C. Sarafian,nan,nan,99,1971,7.2,61
+411,Meng long guo jiang,Bruce L,nan,nan,99,1972,7.2,58
+412,Runaway Train,Andrey Konchalovskiy,nan,nan,111,1985,7.2,67
+413,The Hitcher,Robert Harmon,nan,nan,97,1986,7.2,32
+414,Bajirao Mastani,Sanjay Leela Bhansal,nan,nan,158,2015,7.2,nan
+415,Magnum Force,Ted P,nan,nan,124,1973,7.2,58
+416,The Siege of Jadotville,Richie Smyth,nan,nan,108,2016,7.2,nan
+417,Django,Sergio Corbu,nan,nan,91,1966,7.2,75
+418,The Witcher: Nightmare of the Wolf,Kwang Il Han,nan,nan,83,2021,7.2,67
+419,Arlington Road,Mark Pellington,nan,nan,117,1999,7.2,65
+420,The Transformers: The Movie,Nelson Shin,nan,nan,84,1986,7.2,43
+421,'71,Yann Demang,nan,nan,99,2014,7.2,83
+422,Kon-Tiki,Joachim Rønning,Espen Sandberg,nan,118,2012,7.2,62
+423,Harry Brown,aniel Barb,nan,nan,103,2009,7.2,55
+424,Jing wu men,Wei L,nan,nan,106,1972,7.2,68
+425,Joheunnom nabbeunnom isanghannom,Jee-woon Kim,nan,nan,139,2008,7.2,69
+426,La isla mínima,Alberto Rodríguez,nan,nan,105,2014,7.2,nan
+427,Mongol,Sergei Bodrov,nan,nan,126,2007,7.2,74
+428,Fainaru fantajî sebun adobento chirudoren,Tetsuya Nomura,Takeshi Nozue,nan,101,2005,7.2,nan
+429,Holiday,A.R. Murugad,nan,nan,160,2014,7.2,nan
+430,Fast & Furious 7,James Wan,nan,nan,137,2015,7.1,67
+431,Free Guy,Shawn Levy,nan,nan,115,2021,7.1,62
+432,Wrath of Man,Guy Ritch,nan,nan,119,2021,7.1,57
+433,Mission: Impossible,Brian De Palma,nan,nan,110,1996,7.1,59
+434,The Mummy,Stephen Somm,nan,nan,124,1999,7.1,48
+435,Man of Steel,Zack Snyd,nan,nan,143,2013,7.1,55
+436,Prey,an Trachtenberg,nan,nan,100,2022,7.1,71
+437,Dredd,Pete Trav,nan,nan,95,2012,7.1,60
+438,Shooter,Antoine Fuqua,nan,nan,124,2007,7.1,53
+439,Tropic Thunder,Ben Still,nan,nan,107,2008,7.1,71
+440,Snowpiercer,Bong Joon H,nan,nan,126,2013,7.1,84
+441,WarGames,John Badham,nan,nan,114,1983,7.1,77
+442,Iron Man Three,Shane Black,nan,nan,130,2013,7.1,62
+443,We Were Soldiers,Randall Walla,nan,nan,138,2002,7.1,65
+444,Blade,Stephen Norrington,nan,nan,120,1998,7.1,47
+445,Batman Returns,Tim Burton,nan,nan,126,1992,7.1,68
+446,Desperado,Robert Rodriguez,nan,nan,104,1995,7.1,55
+447,DC League of Super-Pets,Jared Stern,Sam J. Levine,nan,105,2022,7.1,56
+448,Highlander,Russell Mulcahy,nan,nan,116,1986,7.1,24
+449,American Made,ug Liman,nan,nan,115,2017,7.1,65
+450,Pirates of the Caribbean: At World's End,Gore Verbinsk,nan,nan,169,2007,7.1,50
+451,"I, Robot",Alex Proya,nan,nan,115,2004,7.1,59
+452,Casualties of War,Brian De Palma,nan,nan,113,1989,7.1,75
+453,Kung Fu Panda 3,Alessandro Carlon,Jennifer Yuh Nelson,nan,95,2016,7.1,66
+454,Escape from New York,John Carpen,nan,nan,99,1981,7.1,76
+455,Creed II,Steven Caple Jr.,nan,nan,130,2018,7.1,66
+456,The Poseidon Adventure,Ronald Neam,nan,nan,117,1972,7.1,70
+457,Everest,Baltasar Kormáku,nan,nan,121,2015,7.1,64
+458,Allied,Robert Zemeck,nan,nan,124,2016,7.1,60
+459,Planet Terror,Robert Rodriguez,nan,nan,105,2007,7.1,nan
+460,No Way Out,Roger Donaldson,nan,nan,114,1987,7.1,77
+461,Deja Vu,Tony S,nan,nan,126,2006,7.1,59
+462,Rocky Balboa,Sylvester Stallon,nan,nan,102,2006,7.1,63
+463,Deepwater Horizon,Peter Berg,nan,nan,107,2016,7.1,68
+464,Three Kings,avid O. Russell,nan,nan,114,1999,7.1,82
+465,Live Free or Die Hard,Len Wiseman,nan,nan,128,2007,7.1,69
+466,Die Hard 2,Renny Harlin,nan,nan,124,1990,7.1,67
+467,Defiance,Edward Zwick,nan,nan,137,2008,7.1,58
+468,Brawl in Cell Block 99,S. Craig Zahl,nan,nan,132,2017,7.1,79
+469,Flags of Our Fathers,Clint Eastwood,nan,nan,135,2006,7.1,79
+470,Megan Leavey,Gabriela Cowperthwa,nan,nan,116,2017,7.1,66
+471,Payback,Brian Helgeland,nan,nan,100,1999,7.1,46
+472,Ong-bak,Prachya Pinkaew,nan,nan,108,2003,7.1,69
+473,Mosul,Matthew Michael Carnahan,nan,nan,86,2019,7.1,71
+474,Banlieue 13,Pierre Morel,nan,nan,84,2004,7.1,70
+475,Flickan som lekte med elden,aniel Alfredson,nan,nan,129,2009,7.1,66
+476,God Bless America,Bobcat Goldthwa,nan,nan,105,2011,7.1,56
+477,Kraftidioten,Hans Petter Moland,nan,nan,116,2014,7.1,74
+478,Don,Farhan Akhta,nan,nan,178,2006,7.1,nan
+479,JCVD,Mabrouk El Mech,nan,nan,97,2008,7.1,64
+480,Kaabil,Sanjay Gupta,nan,nan,139,2017,7.1,nan
+481,Dragon Ball Z: Doragon bôru Z - Kami to Kami,Masahiro Hosoda,nan,nan,85,2013,7.1,nan
+482,Micmacs à tire-larigot,Jean-Pierre Jeun,nan,nan,105,2009,7.1,62
+483,Koi... Mil Gaya,Rakesh Roshan,nan,nan,171,2003,7.1,nan
+484,Enthiran,S. Shanka,nan,nan,155,2010,7.1,nan
+485,Fanaa,Kunal Kohl,nan,nan,168,2006,7.1,nan
+486,Marighella,Wagner Moura,nan,nan,155,2019,7.1,nan
+487,Gabbar Is Back,Radha Krishna Jagarlamud,nan,nan,128,2015,7.1,nan
+488,Sisu,Jalmari Heland,nan,nan,91,2022,7.0,70
+489,Furious 6,Justin Lin,nan,nan,130,2013,7.0,61
+490,The Unbearable Weight of Massive Talent,Tom Gormican,nan,nan,107,2022,7.0,68
+491,Transformers,Michael Bay,nan,nan,144,2007,7.0,61
+492,The Northman,Robert Egg,nan,nan,137,2022,7.0,82
+493,Ant-Man and the Wasp,Peyton Reed,nan,nan,118,2018,7.0,70
+494,Shazam!,avid F. Sandberg,nan,nan,132,2019,7.0,71
+495,Death Proof,Quentin Tarantin,nan,nan,127,2007,7.0,nan
+496,Independence Day,Roland Emmerich,nan,nan,145,1996,7.0,59
+497,Jack Reacher,Christopher McQua,nan,nan,130,2012,7.0,50
+498,Super 8,J.J. Abram,nan,nan,112,2011,7.0,72
+499,Thor,Kenneth Branagh,nan,nan,115,2011,7.0,57
+500,World War Z,Marc F,nan,nan,116,2013,7.0,63
+501,Cloverfield,Matt Reev,nan,nan,85,2008,7.0,64
+502,Constantine,Francis Lawren,nan,nan,121,2005,7.0,50
+503,Smokey and the Bandit,Hal Needham,nan,nan,96,1977,7.0,50
+504,Star Trek Beyond,Justin Lin,nan,nan,122,2016,7.0,68
+505,Sicario: Day of the Soldado,Stefano Sollima,nan,nan,122,2018,7.0,61
+506,Oblivion,Joseph Kosinsk,nan,nan,124,2013,7.0,54
+507,Pitch Black,avid Twohy,nan,nan,109,2000,7.0,49
+508,Greyhound,Aaron Schneid,nan,nan,91,2020,7.0,64
+509,Rush Hour,Brett Ratn,nan,nan,98,1998,7.0,60
+510,The Italian Job,F. Gary Gray,nan,nan,111,2003,7.0,68
+511,Stargate,Roland Emmerich,nan,nan,116,1994,7.0,42
+512,Le pacte des loups,Christophe Gan,nan,nan,142,2001,7.0,57
+513,The Last Boy Scout,Tony S,nan,nan,105,1991,7.0,52
+514,Underworld,Len Wiseman,nan,nan,121,2003,7.0,42
+515,RED,Robert Schwentk,nan,nan,111,2010,7.0,60
+516,Spy,Paul Feig,nan,nan,120,2015,7.0,75
+517,Den of Thieves,Christian Gudega,nan,nan,140,2018,7.0,49
+518,Logan Lucky,Steven Soderbergh,nan,nan,118,2017,7.0,78
+519,Real Steel,Shawn Levy,nan,nan,127,2011,7.0,56
+520,Public Enemies,Michael Mann,nan,nan,140,2009,7.0,70
+521,The Towering Inferno,John Guillermin,nan,nan,165,1974,7.0,69
+522,Fallen,Gregory Hobl,nan,nan,124,1998,7.0,nan
+523,22 Jump Street,Phil Lord,Christopher Miller,nan,112,2014,7.0,71
+524,Rambo,Sylvester Stallon,nan,nan,92,2008,7.0,46
+525,Bronson,Nicolas Winding Refn,nan,nan,92,2008,7.0,71
+526,Chronicle,Josh Trank,nan,nan,89,2012,7.0,69
+527,9,Shane Ack,nan,nan,79,2009,7.0,60
+528,Chip 'n Dale: Rescue Rangers,Akiva Schaff,nan,nan,97,2022,7.0,66
+529,Hellboy II: The Golden Army,Guillermo del T,nan,nan,120,2008,7.0,78
+530,Body of Lies,Ridley S,nan,nan,128,2008,7.0,57
+531,The Foreigner,Martin Campbell,nan,nan,113,2017,7.0,55
+532,The Kingdom,Peter Berg,nan,nan,110,2007,7.0,56
+533,A Most Violent Year,J.C. Chand,nan,nan,125,2014,7.0,79
+534,The Spy Who Loved Me,Lewis Gilb,nan,nan,125,1977,7.0,55
+535,Filth,Jon S. Baird,nan,nan,97,2013,7.0,56
+536,Spy Game,Tony S,nan,nan,126,2001,7.0,63
+537,Yip Man 4,Wilson Yip,nan,nan,107,2019,7.0,62
+538,Son of Rambow,Garth Jenning,nan,nan,96,2007,7.0,66
+539,Koroshiya 1,Takashi Miik,nan,nan,129,2001,7.0,55
+540,Maverick,Richard Donn,nan,nan,127,1994,7.0,62
+541,Thunderbolt and Lightfoot,Michael Cimin,nan,nan,115,1974,7.0,62
+542,Juice,Ernest R. Dickerson,nan,nan,95,1992,7.0,60
+543,Unleashed,Louis L,nan,nan,103,2005,7.0,58
+544,An Action Hero,Anirudh Iy,nan,nan,130,2022,7.0,nan
+545,The War of the Worlds,Byron Haskin,nan,nan,85,1953,7.0,78
+546,Taxi,Gérard Pirè,nan,nan,89,1998,7.0,nan
+547,Dragon: The Bruce Lee Story,Rob Cohen,nan,nan,120,1993,7.0,69
+548,Yip Man 3,Wilson Yip,nan,nan,105,2015,7.0,57
+549,Don 2,Farhan Akhta,nan,nan,148,2011,7.0,49
+550,Tom yum goong,Prachya Pinkaew,nan,nan,111,2005,7.0,52
+551,Man cheng jin dai huang jin jia,Yimou Zhang,nan,nan,114,2006,7.0,70
+552,Kabir Singh,Sandeep Reddy Vanga,nan,nan,173,2019,7.0,nan
+553,Sultan,Ali Abbas Zafa,nan,nan,170,2016,7.0,nan
+554,VR (Vikrant Rona),Anup Bhanda,nan,nan,148,2022,7.0,nan
+555,Main Hoon Na,Farah Khan,nan,nan,182,2004,7.0,nan
+556,Tau ming chong,Peter Ho-Sun Chan,Wai-Man Yip,nan,126,2007,7.0,70
+557,Yip Man chin chyun,Herman Yau,nan,nan,100,2010,7.0,nan
+558,The Legend,Jerry,Joseph D. Sami,nan,161,2022,7.0,nan
+559,The Last Kingdom: Seven Kings Must Die,Edward Bazalg,nan,nan,111,2023,6.9,48
+560,Top Gun,Tony S,nan,nan,109,1986,6.9,50
+561,Conan the Barbarian,John Miliu,nan,nan,129,1982,6.9,43
+562,Doctor Strange in the Multiverse of Madness,Sam Raim,nan,nan,126,2022,6.9,60
+563,Game Night,John Francis Daley,Jonathan Goldstein,nan,100,2018,6.9,66
+564,A Knight's Tale,Brian Helgeland,nan,nan,132,2001,6.9,56
+565,Jumanji: Welcome to the Jungle,Jake Kasdan,nan,nan,119,2017,6.9,58
+566,Captain America: The First Avenger,Joe Johnston,nan,nan,124,2011,6.9,66
+567,The Mask,Chuck Russell,nan,nan,101,1994,6.9,56
+568,Mission: Impossible III,J.J. Abram,nan,nan,126,2006,6.9,66
+569,Solo: A Star Wars Story,Ron Howard,nan,nan,135,2018,6.9,62
+570,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,nan,nan,152,2017,6.9,84
+571,The Amazing Spider-Man,Marc Webb,nan,nan,136,2012,6.9,66
+572,Pacific Rim,Guillermo del T,nan,nan,131,2013,6.9,65
+573,Jurassic World,Colin Trevorrow,nan,nan,124,2015,6.9,59
+574,X-Men: Apocalypse,Bryan Sing,nan,nan,144,2016,6.9,52
+575,Iron Man 2,Jon Favreau,nan,nan,124,2010,6.9,57
+576,National Treasure,Jon Turteltaub,nan,nan,131,2004,6.9,40
+577,Con Air,Simon W,nan,nan,115,1997,6.9,52
+578,The World's End,Edgar Wrigh,nan,nan,109,2013,6.9,81
+579,Romancing the Stone,Robert Zemeck,nan,nan,106,1984,6.9,63
+580,The Guardian,Andrew Dav,nan,nan,139,2006,6.9,53
+581,Atlantis: The Lost Empire,Gary Trousdal,Kirk Wise,nan,95,2001,6.9,52
+582,28 Weeks Later,Juan Carlos Fresnadill,nan,nan,100,2007,6.9,78
+583,Robin Hood: Prince of Thieves,Kevin Reynold,nan,nan,143,1991,6.9,51
+584,Love and Monsters,Michael Matthew,nan,nan,109,2020,6.9,63
+585,Dragged Across Concrete,S. Craig Zahl,nan,nan,158,2018,6.9,60
+586,Pineapple Express,avid Gordon Green,nan,nan,111,2008,6.9,64
+587,Thunderball,Terence Young,nan,nan,130,1965,6.9,64
+588,Outlaw King,avid Mackenz,nan,nan,121,2018,6.9,59
+589,Crank,Mark Neveldin,Brian Taylor,nan,88,2006,6.9,57
+590,In the Heart of the Sea,Ron Howard,nan,nan,122,2015,6.9,47
+591,The Hitman's Bodyguard,Patrick Hugh,nan,nan,118,2017,6.9,47
+592,Clear and Present Danger,Phillip Noy,nan,nan,141,1994,6.9,74
+593,48 Hrs.,Walter Hill,nan,nan,96,1982,6.9,71
+594,Clash of the Titans,mond Dav,nan,nan,118,1981,6.9,59
+595,Death Wish,Michael Winn,nan,nan,93,1974,6.9,51
+596,The Edge,Lee Tamah,nan,nan,117,1997,6.9,66
+597,Non-Stop,Jaume Collet-Serra,nan,nan,106,2014,6.9,56
+598,The Last Castle,Rod Lu,nan,nan,131,2001,6.9,43
+599,The Monster Squad,Fred Dekk,nan,nan,79,1987,6.9,61
+600,Repo Man,Alex Cox,nan,nan,92,1984,6.9,82
+601,Westworld,Michael Crichton,nan,nan,88,1973,6.9,77
+602,The Night Comes for Us,Timo Tjahjan,nan,nan,121,2018,6.9,69
+603,Free State of Jones,Gary R,nan,nan,139,2016,6.9,53
+604,Legend of the Guardians: The Owls of Ga'Hoole,Zack Snyd,nan,nan,97,2010,6.9,53
+605,Memphis Belle,Michael Caton-Jon,nan,nan,107,1990,6.9,59
+606,Muppet Treasure Island,Brian Henson,David Lane,nan,99,1996,6.9,64
+607,Slow West,John Maclean,nan,nan,84,2015,6.9,72
+608,All Is Lost,J.C. Chand,nan,nan,106,2013,6.9,87
+609,Get the Gringo,Adrian Grunberg,nan,nan,96,2012,6.9,60
+610,Tang shan da xiong,Wei L,Chia-Hsiang Wu,nan,100,1971,6.9,nan
+611,San ging chaat goo si,Benny Chan,nan,nan,123,2004,6.9,nan
+612,Agneepath,Karan Malhotra,nan,nan,174,2012,6.9,nan
+613,Traitor,Jeffrey Nachmanoff,nan,nan,114,2008,6.9,61
+614,Fan,Maneesh Sharma,nan,nan,138,2016,6.9,nan
+615,Alan Partridge: Alpha Papa,lan Lowney,nan,nan,90,2013,6.9,66
+616,The Fast and the Furious,Rob Cohen,nan,nan,106,2001,6.8,58
+617,The Magnificent Seven,Antoine Fuqua,nan,nan,132,2016,6.8,54
+618,The Woman King,Gina Prince-Bythewood,nan,nan,135,2022,6.8,77
+619,Ready or Not,Matt Bettinelli-Olpin,Tyler Gillett,nan,95,2019,6.8,64
+620,Captain Marvel,Anna Boden,Ryan Fleck,nan,123,2019,6.8,64
+621,Aquaman,James Wan,nan,nan,143,2018,6.8,55
+622,The Book of Eli,Albert Hugh,Allen Hughes,nan,118,2010,6.8,53
+623,The Maze Runner,Wes Ball,nan,nan,113,2014,6.8,57
+624,Kisi Ka Bhai Kisi Ki Jaan,Farhad Samj,nan,nan,145,2023,6.8,nan
+625,Tron,Joseph Kosinsk,nan,nan,125,2010,6.8,49
+626,Men in Black 3,Barry Sonnenfeld,nan,nan,106,2012,6.8,58
+627,Mad Max,George Mill,nan,nan,88,1979,6.8,73
+628,Chappie,Neill Blomkamp,nan,nan,120,2015,6.8,41
+629,Boss Level,Joe Carnahan,nan,nan,100,2020,6.8,56
+630,Thor: The Dark World,Alan Tayl,nan,nan,112,2013,6.8,54
+631,Spectre,Sam Mend,nan,nan,148,2015,6.8,60
+632,Bad Boys,Michael Bay,nan,nan,119,1995,6.8,41
+633,News of the World,Paul Greengra,nan,nan,118,2020,6.8,73
+634,What Happened to Monday,Tommy Wirkola,nan,nan,123,2017,6.8,47
+635,The Island,Michael Bay,nan,nan,136,2005,6.8,50
+636,Hellboy,Guillermo del T,nan,nan,122,2004,6.8,72
+637,The Mask of Zorro,Martin Campbell,nan,nan,136,1998,6.8,63
+638,Logan's Run,Michael Anderson,nan,nan,119,1976,6.8,53
+639,Bloodsport,Newt Arnold,nan,nan,92,1988,6.8,29
+640,The Outpost,Rod Lu,nan,nan,123,2019,6.8,71
+641,The Transporter,Louis L,Corey Yuen,nan,92,2002,6.8,51
+642,Unstoppable,Tony S,nan,nan,98,2010,6.8,69
+643,Young Guns,Christopher Cain,nan,nan,107,1988,6.8,50
+644,Hanna,Joe Wrigh,nan,nan,111,2011,6.8,65
+645,Superman II,Richard L,Richard Donner,nan,127,1980,6.8,83
+646,Ghostbusters,Paul Feig,nan,nan,117,2016,6.8,60
+647,The Long Kiss Goodnight,Renny Harlin,nan,nan,121,1996,6.8,44
+648,Patriot Games,Phillip Noy,nan,nan,117,1992,6.8,64
+649,Shin Gojira,Hideaki Ann,Shinji Higuchi,nan,120,2016,6.8,67
+650,Dog Soldiers,Neil Marshall,nan,nan,105,2002,6.8,nan
+651,Four Brothers,John Singleton,nan,nan,109,2005,6.8,49
+652,You Only Live Twice,Lewis Gilb,nan,nan,117,1967,6.8,61
+653,Spies in Disguise,Nick Brun,Troy Quane,nan,102,2019,6.8,54
+654,Street Kings,avid Ay,nan,nan,109,2008,6.8,55
+655,Innerspace,Joe Dan,nan,nan,120,1987,6.8,66
+656,The Score,Frank Oz,nan,nan,124,2001,6.8,71
+657,Tristan + Isolde,Kevin Reynold,nan,nan,125,2006,6.8,49
+658,Tres metros sobre el cielo,Fernando González Molina,nan,nan,118,2010,6.8,nan
+659,El mariachi,Robert Rodriguez,nan,nan,81,1992,6.8,73
+660,Unknown,Jaume Collet-Serra,nan,nan,113,2011,6.8,56
+661,Enemy Mine,Wolfgang Petersen,nan,nan,108,1985,6.8,59
+662,Green Zone,Paul Greengra,nan,nan,115,2010,6.8,63
+663,Harsh Times,avid Ay,nan,nan,116,2005,6.8,56
+664,We Own the Night,James Gray,nan,nan,117,2007,6.8,59
+665,Ngo si seoi,Benny Chan,Jackie Chan,nan,120,1998,6.8,nan
+666,Død snø 2,Tommy Wirkola,nan,nan,100,2014,6.8,59
+667,Black Panther: Wakanda Forever,Ryan Coogl,nan,nan,161,2022,6.7,67
+668,Extraction,Sam Hargrav,nan,nan,116,2020,6.7,56
+669,Kingsman: The Golden Circle,Matthew Vaughn,nan,nan,141,2017,6.7,44
+670,Safe House,aniel Espinosa,nan,nan,115,2012,6.7,52
+671,Jumanji: The Next Level,Jake Kasdan,nan,nan,123,2019,6.7,58
+672,Black Widow,Cate Shortland,nan,nan,134,2021,6.7,68
+673,The Adam Project,Shawn Levy,nan,nan,106,2022,6.7,55
+674,Road House,Rowdy Herrington,nan,nan,114,1989,6.7,36
+675,Bumblebee,Travis Knigh,nan,nan,114,2018,6.7,66
+676,The A-Team,Joe Carnahan,nan,nan,117,2010,6.7,47
+677,Wanted,Timur Bekmambetov,nan,nan,110,2008,6.7,64
+678,Armageddon,Michael Bay,nan,nan,151,1998,6.7,42
+679,Super,James Gunn,nan,nan,96,2010,6.7,50
+680,The Running Man,Paul Michael Gla,nan,nan,101,1987,6.7,45
+681,In Time,Andrew Niccol,nan,nan,109,2011,6.7,53
+682,The Equalizer 2,Antoine Fuqua,nan,nan,121,2018,6.7,50
+683,Midway,Roland Emmerich,nan,nan,138,2019,6.7,47
+684,Violent Night,Tommy Wirkola,nan,nan,112,2022,6.7,55
+685,Enola Holmes 2,Harry Bradb,nan,nan,129,2022,6.7,64
+686,King Arthur: Legend of the Sword,Guy Ritch,nan,nan,126,2017,6.7,41
+687,Commando,Mark L. L,nan,nan,90,1985,6.7,51
+688,Demolition Man,Marco Brambilla,nan,nan,115,1993,6.7,34
+689,Zombieland: Double Tap,Ruben Fleisch,nan,nan,99,2019,6.7,55
+690,Teenage Mutant Ninja Turtles,Steve Barron,nan,nan,93,1990,6.7,51
+691,No Escape,John Erick Dowdl,nan,nan,103,2015,6.7,38
+692,Atomic Blonde,avid Leitch,nan,nan,115,2017,6.7,63
+693,The Living Daylights,John Glen,nan,nan,130,1987,6.7,59
+694,Escape Plan,Mikael Håfström,nan,nan,115,2013,6.7,49
+695,The Wolverine,James Mangold,nan,nan,126,2013,6.7,61
+696,Warcraft,uncan Jon,nan,nan,123,2016,6.7,32
+697,Tron,Steven Lisberg,nan,nan,96,1982,6.7,58
+698,Out of the Furnace,Scott Coop,nan,nan,116,2013,6.7,63
+699,Angels & Demons,Ron Howard,nan,nan,138,2009,6.7,48
+700,2 Guns,Baltasar Kormáku,nan,nan,109,2013,6.7,55
+701,Blade II,Guillermo del T,nan,nan,117,2002,6.7,52
+702,The Matrix Revolutions,Lana Wachowsk,Lilly Wachowski,nan,129,2003,6.7,47
+703,The Last Starfighter,Nick Castl,nan,nan,101,1984,6.7,67
+704,Wyatt Earp,Lawrence Kasdan,nan,nan,191,1994,6.7,47
+705,Absolute Power,Clint Eastwood,nan,nan,121,1997,6.7,52
+706,Hot Shots!,Jim Abraham,nan,nan,84,1991,6.7,61
+707,On Her Majesty's Secret Service,Peter R. Hun,nan,nan,142,1969,6.7,61
+708,Pandorum,Christian Alva,nan,nan,108,2009,6.7,28
+709,The Grey,Joe Carnahan,nan,nan,117,2011,6.7,64
+710,Live and Let Die,Guy Hamilton,nan,nan,121,1973,6.7,55
+711,Backdraft,Ron Howard,nan,nan,137,1991,6.7,38
+712,Pete's Dragon,avid Lowery,nan,nan,102,2016,6.7,71
+713,Jungle,Greg McLean,nan,nan,115,2017,6.7,48
+714,Conspiracy Theory,Richard Donn,nan,nan,135,1997,6.7,49
+715,For Your Eyes Only,John Glen,nan,nan,127,1981,6.7,54
+716,Colors,nnis Hopp,nan,nan,120,1988,6.7,66
+717,Hung fan kui,Stanley Tong,nan,nan,104,1995,6.7,61
+718,The Man with the Golden Gun,Guy Hamilton,nan,nan,125,1974,6.7,43
+719,Hardcore Henry,Ilya Naishull,nan,nan,96,2015,6.7,51
+720,Harriet,Kasi Lemmon,nan,nan,125,2019,6.7,66
+721,Hamburger Hill,John Irvin,nan,nan,110,1987,6.7,64
+722,Gangster Squad,Ruben Fleisch,nan,nan,113,2013,6.7,40
+723,The Finest Hours,Craig Gillesp,nan,nan,117,2016,6.7,58
+724,Underworld: Evolution,Len Wiseman,nan,nan,106,2006,6.7,36
+725,Death Sentence,James Wan,nan,nan,105,2007,6.7,36
+726,Lethal Weapon 3,Richard Donn,nan,nan,118,1992,6.7,40
+727,Brooklyn's Finest,Antoine Fuqua,nan,nan,132,2009,6.7,43
+728,Tales from the Crypt: Demon Knight,Ernest R. Dickerson,nan,nan,92,1995,6.7,48
+729,Ransom,Ron Howard,nan,nan,121,1996,6.7,60
+730,Hidalgo,Joe Johnston,nan,nan,136,2004,6.7,54
+731,Appaloosa,Ed Ha,nan,nan,115,2008,6.7,64
+732,The Salvation,Kristian Levring,nan,nan,92,2014,6.7,64
+733,The Enforcer,James Farg,nan,nan,96,1976,6.7,58
+734,Nothing to Lose,Steve Oedekerk,nan,nan,98,1997,6.7,nan
+735,Blood and Bone,Ben Ramsey,nan,nan,93,2009,6.7,nan
+736,The Brothers Bloom,Rian Johnson,nan,nan,114,2008,6.7,55
+737,Machine Gun Preacher,Marc F,nan,nan,129,2011,6.7,43
+738,The Brave One,Neil Jordan,nan,nan,122,2007,6.7,56
+739,Turbo Kid,François Simard,Anouk Whissell,Yoann-Karl Whissell,93,2015,6.7,60
+740,Stakeout,John Badham,nan,nan,117,1987,6.7,69
+741,Wild Target,Jonathan Lynn,nan,nan,98,2010,6.7,41
+742,Om Shanti Om,Farah Khan,nan,nan,162,2007,6.7,nan
+743,Antim: The Final Truth,Mahesh Manjreka,nan,nan,138,2021,6.7,nan
+744,The Fate of the Furious,F. Gary Gray,nan,nan,136,2017,6.6,56
+745,Venom,Ruben Fleisch,nan,nan,112,2018,6.6,35
+746,Star Wars: Episode II - Attack of the Clones,George Luca,nan,nan,142,2002,6.6,54
+747,Red Sparrow,Francis Lawren,nan,nan,140,2018,6.6,53
+748,Smokin' Aces,Joe Carnahan,nan,nan,109,2006,6.6,45
+749,Kong: Skull Island,Jordan Vogt-Rob,nan,nan,118,2017,6.6,62
+750,Divergent,Neil Burg,nan,nan,139,2014,6.6,48
+751,Resident Evil,Paul W.S. Anderson,nan,nan,100,2002,6.6,33
+752,Anna,Luc Besson,nan,nan,118,2019,6.6,40
+753,The Incredible Hulk,Louis L,nan,nan,112,2008,6.6,61
+754,John Carter,Andrew Stanton,nan,nan,132,2012,6.6,51
+755,Ender's Game,Gavin Hood,nan,nan,114,2013,6.6,51
+756,The Other Guys,Adam McKay,nan,nan,107,2010,6.6,64
+757,The Old Guard,Gina Prince-Bythewood,nan,nan,125,2020,6.6,70
+758,The Amazing Spider-Man 2,Marc Webb,nan,nan,142,2014,6.6,53
+759,Licence to Kill,John Glen,nan,nan,133,1989,6.6,58
+760,Enola Holmes,Harry Bradb,nan,nan,123,2020,6.6,68
+761,The Hunger Games: Mockingjay - Part 1,Francis Lawren,nan,nan,123,2014,6.6,64
+762,Jungle Cruise,Jaume Collet-Serra,nan,nan,127,2021,6.6,50
+763,The Chronicles of Riddick,avid Twohy,nan,nan,119,2004,6.6,38
+764,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,nan,nan,137,2011,6.6,45
+765,The Harder They Fall,Jeymes Samuel,nan,nan,139,2021,6.6,68
+766,Austin Powers: The Spy Who Shagged Me,Jay Roach,nan,nan,95,1999,6.6,59
+767,X-Men: The Last Stand,Brett Ratn,nan,nan,104,2006,6.6,58
+768,The Rundown,Peter Berg,nan,nan,104,2003,6.6,59
+769,Elysium,Neill Blomkamp,nan,nan,109,2013,6.6,61
+770,Quantum of Solace,Marc F,nan,nan,106,2008,6.6,58
+771,Robin Hood,Ridley S,nan,nan,140,2010,6.6,53
+772,Jason Bourne,Paul Greengra,nan,nan,123,2016,6.6,58
+773,Run All Night,Jaume Collet-Serra,nan,nan,114,2015,6.6,59
+774,The 13th Warrior,John McTiernan,Michael Crichton,nan,102,1999,6.6,42
+775,Prince of Persia: The Sands of Time,Mike Newell,nan,nan,116,2010,6.6,50
+776,Crocodile Dundee,Peter Faiman,nan,nan,97,1986,6.6,62
+777,Ghostbusters II,Ivan Reitman,nan,nan,108,1989,6.6,56
+778,Machete,Ethan Maniqu,Robert Rodriguez,nan,105,2010,6.6,60
+779,Hunter Killer,novan Marsh,nan,nan,121,2018,6.6,43
+780,The Lego Movie 2: The Second Part,Mike Mitchell,nan,nan,107,2019,6.6,65
+781,Overlord,Julius Avery,nan,nan,110,2018,6.6,60
+782,30 Days of Night,avid Slad,nan,nan,113,2007,6.6,53
+783,The Expendables 2,Simon W,nan,nan,103,2012,6.6,51
+784,The Heat,Paul Feig,nan,nan,117,2013,6.6,60
+785,Flushed Away,avid Bow,Sam Fell,nan,85,2006,6.6,74
+786,Bad Boys II,Michael Bay,nan,nan,147,2003,6.6,38
+787,Rush Hour 2,Brett Ratn,nan,nan,90,2001,6.6,48
+788,Tears of the Sun,Antoine Fuqua,nan,nan,121,2003,6.6,48
+789,Shanghai Noon,Tom Dey,nan,nan,110,2000,6.6,77
+790,Star Trek: Generations,avid Carson,nan,nan,118,1994,6.6,55
+791,Epic,Chris Wedg,nan,nan,102,2013,6.6,52
+792,The Informer,Andrea Di Stefan,nan,nan,113,2019,6.6,61
+793,The Bourne Legacy,Tony Gilroy,nan,nan,135,2012,6.6,61
+794,Joy Ride,John Dahl,nan,nan,97,2001,6.6,75
+795,Attack the Block,Joe Cornish,nan,nan,88,2011,6.6,75
+796,Adrift,Baltasar Kormáku,nan,nan,96,2018,6.6,56
+797,U-571,Jonathan Mostow,nan,nan,116,2000,6.6,62
+798,Penguins of Madagascar,Eric Darnell,Simon J. Smith,nan,92,2014,6.6,53
+799,Hot Shots! Part Deux,Jim Abraham,nan,nan,86,1993,6.6,64
+800,Black Rain,Ridley S,nan,nan,125,1989,6.6,56
+801,Outbreak,Wolfgang Petersen,nan,nan,127,1995,6.6,64
+802,Eagle Eye,.J. Caru,nan,nan,118,2008,6.6,43
+803,Star Trek III: The Search for Spock,Leonard Nimoy,nan,nan,105,1984,6.6,56
+804,RED 2,an Pa,nan,nan,116,2013,6.6,47
+805,Rollerball,Norman Jewison,nan,nan,125,1975,6.6,56
+806,Shoot 'Em Up,Michael Dav,nan,nan,86,2007,6.6,49
+807,The Final Countdown,n Tayl,nan,nan,103,1980,6.6,51
+808,Titan A.E.,n Bluth,Gary Goldman,nan,94,2000,6.6,48
+809,New Jack City,Mario Van Peebl,nan,nan,97,1991,6.6,61
+810,21 Bridges,Brian Kirk,nan,nan,99,2019,6.6,51
+811,The Aeronauts,Tom Harp,nan,nan,100,2019,6.6,60
+812,Courage Under Fire,Edward Zwick,nan,nan,116,1996,6.6,77
+813,The Girl with All the Gifts,Colm McCarthy,nan,nan,111,2016,6.6,67
+814,Alpha,Albert Hugh,nan,nan,96,2018,6.6,63
+815,Bølgen,Roar Uthaug,nan,nan,105,2015,6.6,68
+816,Lethal Weapon 4,Richard Donn,nan,nan,127,1998,6.6,37
+817,Sudden Impact,Clint Eastwood,nan,nan,117,1983,6.6,52
+818,Man on a Ledge,Asger Leth,nan,nan,102,2012,6.6,40
+819,The Recruit,Roger Donaldson,nan,nan,115,2003,6.6,56
+820,Edge of Darkness,Martin Campbell,nan,nan,117,2010,6.6,55
+821,The Way of the Gun,Christopher McQua,nan,nan,119,2000,6.6,49
+822,Vantage Point,Pete Trav,nan,nan,90,2008,6.6,40
+823,The Art of Self-Defense,Riley Stearn,nan,nan,104,2019,6.6,65
+824,Kiss of the Dragon,Chris Nahon,nan,nan,98,2001,6.6,58
+825,Outland,Peter Hyam,nan,nan,109,1981,6.6,48
+826,16 Blocks,Richard Donn,nan,nan,102,2006,6.6,63
+827,Seraphim Falls,avid Von Ancken,nan,nan,115,2006,6.6,62
+828,Raees,Rahul Dholakia,nan,nan,143,2017,6.6,nan
+829,Wasabi,Gérard Krawczyk,nan,nan,94,2001,6.6,53
+830,L'immortel,Richard Berry,nan,nan,117,2010,6.6,nan
+831,Wanted,Prabhu Deva,nan,nan,147,2009,6.6,nan
+832,Fast & Furious,Justin Lin,nan,nan,107,2009,6.5,46
+833,Plane,Jean-François Rich,nan,nan,107,2023,6.5,62
+834,The Gray Man,Anthony Ru,Joe Russo,nan,122,2022,6.5,49
+835,Star Wars: Episode I - The Phantom Menace,George Luca,nan,nan,136,1999,6.5,51
+836,The Hunt,Craig Zobel,nan,nan,90,2020,6.5,50
+837,Fast & Furious Presents: Hobbs & Shaw,avid Leitch,nan,nan,137,2019,6.5,60
+838,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abram,nan,nan,141,2019,6.5,53
+839,The Tomorrow War,Chris McKay,nan,nan,138,2021,6.5,45
+840,Pokémon: Detective Pikachu,Rob Letterman,nan,nan,104,2019,6.5,53
+841,Sonic the Hedgehog 2,Jeff Fowl,nan,nan,122,2022,6.5,47
+842,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Espen Sandberg,nan,129,2017,6.5,39
+843,Sonic the Hedgehog,Jeff Fowl,nan,nan,99,2020,6.5,47
+844,Tag,Jeff Tom,nan,nan,100,2018,6.5,56
+845,The Hunger Games: Mockingjay - Part 2,Francis Lawren,nan,nan,137,2015,6.5,65
+846,Gone in Sixty Seconds,minic Sena,nan,nan,118,2000,6.5,35
+847,War of the Worlds,Steven Spielberg,nan,nan,116,2005,6.5,73
+848,Beverly Hills Cop II,Tony S,nan,nan,100,1987,6.5,48
+849,Mandy,Panos Cosma,nan,nan,121,2018,6.5,82
+850,The Quick and the Dead,Sam Raim,nan,nan,108,1995,6.5,49
+851,12 Strong,Nicolai Fuglsig,nan,nan,130,2018,6.5,54
+852,The Mechanic,Simon W,nan,nan,93,2011,6.5,49
+853,X-Men Origins: Wolverine,Gavin Hood,nan,nan,107,2009,6.5,40
+854,Mr. & Mrs. Smith,ug Liman,nan,nan,120,2005,6.5,55
+855,Cliffhanger,Renny Harlin,nan,nan,113,1993,6.5,60
+856,Homefront,Gary Fled,nan,nan,100,2013,6.5,40
+857,Under Siege,Andrew Dav,nan,nan,103,1992,6.5,58
+858,The Lost World: Jurassic Park,Steven Spielberg,nan,nan,129,1997,6.5,59
+859,Terminator Salvation,McG,nan,nan,115,2009,6.5,49
+860,Flash Gordon,Mike Hodg,nan,nan,111,1980,6.5,58
+861,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,nan,nan,150,2008,6.5,62
+862,Rambo: First Blood Part II,George P. Cosma,nan,nan,96,1985,6.5,47
+863,Sin City: A Dame to Kill For,Frank Mill,Robert Rodriguez,nan,102,2014,6.5,46
+864,Kick-Ass 2,Jeff Wadlow,nan,nan,103,2013,6.5,41
+865,Tomorrow Never Dies,Roger Spottiswood,nan,nan,119,1997,6.5,52
+866,Olympus Has Fallen,Antoine Fuqua,nan,nan,119,2013,6.5,41
+867,The Perfect Storm,Wolfgang Petersen,nan,nan,130,2000,6.5,59
+868,Octopussy,John Glen,nan,nan,131,1983,6.5,63
+869,The Man in the Iron Mask,Randall Walla,nan,nan,132,1998,6.5,48
+870,Bad Boys for Life,Adil El Arb,Bilall Fallah,nan,124,2020,6.5,59
+871,The Forbidden Kingdom,Rob Minkoff,nan,nan,104,2008,6.5,57
+872,The Interview,Evan Goldberg,Seth Rogen,nan,112,2014,6.5,52
+873,Peppermint,Pierre Morel,nan,nan,101,2018,6.5,29
+874,Get Smart,Peter Segal,nan,nan,110,2008,6.5,54
+875,The Rocketeer,Joe Johnston,nan,nan,108,1991,6.5,61
+876,Never Back Down,Jeff Wadlow,nan,nan,113,2008,6.5,39
+877,Swordfish,minic Sena,nan,nan,99,2001,6.5,32
+878,The Spiderwick Chronicles,Mark Wa,nan,nan,96,2008,6.5,62
+879,National Treasure: Book of Secrets,Jon Turteltaub,nan,nan,124,2007,6.5,48
+880,Diamonds Are Forever,Guy Hamilton,nan,nan,120,1971,6.5,59
+881,Safe,Boaz Yakin,nan,nan,94,2012,6.5,55
+882,Air Force One,Wolfgang Petersen,nan,nan,124,1997,6.5,61
+883,Nerve,Henry J,Ariel Schulman,nan,96,2016,6.5,58
+884,Self/less,Tarsem Singh,nan,nan,117,2015,6.5,34
+885,A Walk Among the Tombstones,Scott Frank,nan,nan,114,2014,6.5,57
+886,Young Guns II,Geoff Murphy,nan,nan,104,1990,6.5,47
+887,Batman: The Movie,Leslie H. Martinson,nan,nan,105,1966,6.5,71
+888,Executive Decision,Stuart Baird,nan,nan,133,1996,6.5,62
+889,U.S. Marshals,Stuart Baird,nan,nan,131,1998,6.5,47
+890,Underworld: Rise of the Lycans,Patrick Tatopoul,nan,nan,92,2009,6.5,44
+891,Space Cowboys,Clint Eastwood,nan,nan,130,2000,6.5,73
+892,Cellular,avid R. Ell,nan,nan,94,2004,6.5,60
+893,Premium Rush,avid Koepp,nan,nan,91,2012,6.5,66
+894,The International,Tom Tykw,nan,nan,118,2009,6.5,52
+895,Hostage,Florent-Emilio S,nan,nan,113,2005,6.5,44
+896,Seungriho,Sung-hee J,nan,nan,136,2021,6.5,64
+897,Yi dai zong shi,Kar-Wai Wong,nan,nan,130,2013,6.5,73
+898,Flyboys,Tony Bill,nan,nan,140,2006,6.5,47
+899,Heist,avid Mam,nan,nan,109,2001,6.5,66
+900,War,Siddharth Anand,nan,nan,154,2019,6.5,nan
+901,The Four Feathers,Shekhar Kapu,nan,nan,132,2002,6.5,49
+902,Ladder 49,Jay Russell,nan,nan,115,2004,6.5,47
+903,Spartan,avid Mam,nan,nan,106,2004,6.5,60
+904,Banlieue 13: Ultimatum,Patrick Alessandrin,nan,nan,101,2009,6.5,64
+905,Fetih 1453,Faruk Aksoy,nan,nan,162,2012,6.5,nan
+906,Taxi 2,Gérard Krawczyk,nan,nan,88,2000,6.5,nan
+907,Dhoom:2,Sanjay Gadhv,nan,nan,152,2006,6.5,nan
+908,Twister,Jan de Bon,nan,nan,113,1996,6.4,68
+909,Escape Room,Adam Robitel,nan,nan,99,2019,6.4,48
+910,Valerian and the City of a Thousand Planets,Luc Besson,nan,nan,136,2017,6.4,51
+911,Tomorrowland,Brad Bird,nan,nan,130,2015,6.4,60
+912,Godzilla,Gareth Edward,nan,nan,123,2014,6.4,62
+913,Lucy,Luc Besson,nan,nan,89,2014,6.4,61
+914,Batman v Superman: Dawn of Justice,Zack Snyd,nan,nan,151,2016,6.4,44
+915,Triple Frontier,J.C. Chand,nan,nan,125,2019,6.4,61
+916,Last Action Hero,John McTiernan,nan,nan,130,1993,6.4,44
+917,Greenland,Ric Roman Waugh,nan,nan,119,2020,6.4,64
+918,The Mummy Returns,Stephen Somm,nan,nan,130,2001,6.4,48
+919,Army of Thieves,Matthias Schweighöf,nan,nan,127,2021,6.4,49
+920,Riddick,avid Twohy,nan,nan,119,2013,6.4,49
+921,Death Race,Paul W.S. Anderson,nan,nan,105,2008,6.4,43
+922,The Day After Tomorrow,Roland Emmerich,nan,nan,124,2004,6.4,47
+923,The Expendables,Sylvester Stallon,nan,nan,103,2010,6.4,45
+924,Alien³,avid Finch,nan,nan,114,1992,6.4,59
+925,Star Trek: Nemesis,Stuart Baird,nan,nan,116,2002,6.4,51
+926,The Punisher,Jonathan Hensleigh,nan,nan,124,2004,6.4,33
+927,Angel Has Fallen,Ric Roman Waugh,nan,nan,121,2019,6.4,45
+928,Need for Speed,Scott Waugh,nan,nan,132,2014,6.4,39
+929,Salt,Phillip Noy,nan,nan,100,2010,6.4,65
+930,Hancock,Peter Berg,nan,nan,92,2008,6.4,49
+931,The Three Musketeers,Stephen Herek,nan,nan,105,1993,6.4,43
+932,Savages,Oliver Ston,nan,nan,131,2012,6.4,59
+933,Now You See Me 2,Jon M. Chu,nan,nan,129,2016,6.4,46
+934,Rat Race,Jerry Zuck,nan,nan,112,2001,6.4,52
+935,The World Is Not Enough,Michael Apted,nan,nan,128,1999,6.4,57
+936,Live by Night,Ben Affleck,nan,nan,129,2016,6.4,49
+937,Pain & Gain,Michael Bay,nan,nan,129,2013,6.4,45
+938,Revenge,Coralie Fargea,nan,nan,108,2017,6.4,81
+939,Monsters vs. Aliens,Rob Letterman,Conrad Vernon,nan,94,2009,6.4,56
+940,Tango & Cash,Andrey Konchalovskiy,Albert Magnoli,nan,104,1989,6.4,41
+941,Predators,Nimród Antal,nan,nan,107,2010,6.4,51
+942,Colombiana,Olivier Megaton,nan,nan,108,2011,6.4,45
+943,Star Trek: Insurrection,Jonathan Frak,nan,nan,103,1998,6.4,64
+944,Way Down,Jaume Balagueró,nan,nan,118,2021,6.4,50
+945,The Lone Ranger,Gore Verbinsk,nan,nan,150,2013,6.4,37
+946,The Angry Birds Movie 2,Thurop Van Orman,John Rice,nan,97,2019,6.4,60
+947,The Taking of Pelham 123,Tony S,nan,nan,106,2009,6.4,55
+948,The Sum of All Fears,Phil Alden Robinson,nan,nan,124,2002,6.4,45
+949,The Jackal,Michael Caton-Jon,nan,nan,124,1997,6.4,36
+950,Killer Elite,Gary McKendry,nan,nan,116,2011,6.4,44
+951,The Purge: Anarchy,James DeMona,nan,nan,103,2014,6.4,50
+952,Behind Enemy Lines,John M,nan,nan,106,2001,6.4,49
+953,Let's Be Cops,Luke Greenfield,nan,nan,104,2014,6.4,30
+954,DragonHeart,Rob Cohen,nan,nan,103,1996,6.4,49
+955,Kill List,Ben Wheatley,nan,nan,95,2011,6.4,67
+956,Kickboxer,Mark DiSall,David Worth,nan,97,1989,6.4,33
+957,Son of a Gun,Julius Avery,nan,nan,108,2014,6.4,49
+958,Faster,George Tillman Jr.,nan,nan,98,2010,6.4,44
+959,Darkman,Sam Raim,nan,nan,96,1990,6.4,65
+960,Dead Man Down,Niels Arden Oplev,nan,nan,118,2013,6.4,39
+961,Daybreakers,Michael Spierig,Peter Spierig,nan,98,2009,6.4,57
+962,The Siege,Edward Zwick,nan,nan,116,1998,6.4,53
+963,Here Comes the Boom,Frank Cora,nan,nan,105,2012,6.4,40
+964,Blood Father,Jean-François Rich,nan,nan,88,2016,6.4,66
+965,Act of Valor,Mike McCoy,Scott Waugh,nan,110,2012,6.4,40
+966,Shaft,Tim Story,nan,nan,111,2019,6.4,40
+967,Contraband,Baltasar Kormáku,nan,nan,109,2012,6.4,51
+968,Basic,John McTiernan,nan,nan,98,2003,6.4,34
+969,The Rover,avid Michôd,nan,nan,103,2014,6.4,64
+970,Snitch,Ric Roman Waugh,nan,nan,112,2013,6.4,51
+971,Last Man Standing,Walter Hill,nan,nan,101,1996,6.4,44
+972,The Omega Man,Boris Sagal,nan,nan,98,1971,6.4,56
+973,Lock Up,John Flynn,nan,nan,109,1989,6.4,52
+974,From Paris with Love,Pierre Morel,nan,nan,92,2010,6.4,42
+975,How I Live Now,Kevin Macdonald,nan,nan,101,2013,6.4,57
+976,The Prophecy,Gregory Widen,nan,nan,98,1995,6.4,44
+977,Batman: The Killing Joke,Sam Liu,nan,nan,76,2016,6.4,nan
+978,Just Cause,Arne Glimch,nan,nan,102,1995,6.4,48
+979,Chaos,Tony Gigl,nan,nan,106,2005,6.4,nan
+980,Black Death,Christopher Smith,nan,nan,102,2010,6.4,71
+981,Black and Blue,n Tayl,nan,nan,108,2019,6.4,54
+982,Final Fantasy: The Spirits Within,Hironobu Sakaguch,Motonori Sakakibara,nan,106,2001,6.4,49
+983,Blood Work,Clint Eastwood,nan,nan,110,2002,6.4,64
+984,Nochnoy dozor,Timur Bekmambetov,nan,nan,114,2004,6.4,58
+985,Ned Kelly,Gregor Jordan,nan,nan,110,2003,6.4,56
+986,Baiohazâdo: Dijenerêshon,Makoto Kamiya,nan,nan,97,2008,6.4,nan
+987,Dnevnoy dozor,Timur Bekmambetov,nan,nan,132,2006,6.4,59
+988,Redirected,Emilis Velyv,nan,nan,99,2014,6.4,nan
+989,Fast X,Louis L,nan,nan,141,2023,6.3,55
+990,Operation Fortune: Ruse de Guerre,Guy Ritch,nan,nan,114,2023,6.3,51
+991,Black Adam,Jaume Collet-Serra,nan,nan,125,2022,6.3,41
+992,The King's Man,Matthew Vaughn,nan,nan,131,2021,6.3,44
+993,Eternals,Chloé Zha,nan,nan,156,2021,6.3,52
+994,Uncharted,Ruben Fleisch,nan,nan,116,2022,6.3,45
+995,Dune,avid Lynch,nan,nan,137,1984,6.3,41
+996,Godzilla vs. Kong,Adam Wingard,nan,nan,113,2021,6.3,59
+997,Waterworld,Kevin Reynold,nan,nan,135,1995,6.3,56
+998,Red Notice,Rawson Marshall Thurb,nan,nan,118,2021,6.3,37
+999,Sky High,Mike Mitchell,nan,nan,100,2005,6.3,62
+1000,Spider-Man 3,Sam Raim,nan,nan,139,2007,6.3,59
+1001,Ghost in the Shell,Rupert Sand,nan,nan,107,2017,6.3,52
+1002,Terminator Genisys,Alan Tayl,nan,nan,126,2015,6.3,38
+1003,Polar,Jonas Åkerlund,nan,nan,118,2019,6.3,19
+1004,Ocean's Eight,Gary R,nan,nan,110,2018,6.3,61
+1005,Tomb Raider,Roar Uthaug,nan,nan,119,2018,6.3,48
+1006,The Shallows,Jaume Collet-Serra,nan,nan,86,2016,6.3,59
+1007,Knight and Day,James Mangold,nan,nan,109,2010,6.3,46
+1008,Terminator 3: Rise of the Machines,Jonathan Mostow,nan,nan,109,2003,6.3,66
+1009,King Arthur,Antoine Fuqua,nan,nan,126,2004,6.3,46
+1010,The Bodyguard,Mick Jackson,nan,nan,129,1992,6.3,39
+1011,Red Dawn,John Miliu,nan,nan,114,1984,6.3,53
+1012,Central Intelligence,Rawson Marshall Thurb,nan,nan,107,2016,6.3,52
+1013,The Last Stand,Jee-woon Kim,nan,nan,107,2013,6.3,54
+1014,The American,Anton Corbijn,nan,nan,105,2010,6.3,61
+1015,Miss Congeniality,nald P,nan,nan,109,2000,6.3,43
+1016,White House Down,Roland Emmerich,nan,nan,131,2013,6.3,52
+1017,Sand Castle,Fernando Coimbra,nan,nan,113,2017,6.3,45
+1018,The Collector,Marcus Dunstan,nan,nan,90,2009,6.3,29
+1019,Bright,avid Ay,nan,nan,117,2017,6.3,29
+1020,Ninja Assassin,James McTeigu,nan,nan,99,2009,6.3,34
+1021,Maze Runner: The Scorch Trials,Wes Ball,nan,nan,131,2015,6.3,43
+1022,Every Which Way But Loose,James Farg,nan,nan,114,1978,6.3,41
+1023,A View to a Kill,John Glen,nan,nan,131,1985,6.3,40
+1024,Guns Akimbo,Jason Howden,nan,nan,98,2019,6.3,42
+1025,Once Upon a Time in Mexico,Robert Rodriguez,nan,nan,102,2003,6.3,56
+1026,Angry Birds,Clay Kay,Fergal Reilly,nan,97,2016,6.3,43
+1027,Spectral,Nic Mathieu,nan,nan,107,2016,6.3,nan
+1028,Predator 2,Stephen Hopkin,nan,nan,108,1990,6.3,46
+1029,Criminal,Ariel Vromen,nan,nan,113,2016,6.3,36
+1030,Transporter 2,Louis L,nan,nan,87,2005,6.3,56
+1031,Scouts Guide to the Zombie Apocalypse,Christopher Landon,nan,nan,93,2015,6.3,32
+1032,Unlocked,Michael Apted,nan,nan,98,2017,6.3,46
+1033,Beowulf,Robert Zemeck,nan,nan,115,2007,6.3,59
+1034,Entrapment,Jon Amiel,nan,nan,113,1999,6.3,54
+1035,Revolver,Guy Ritch,nan,nan,111,2005,6.3,25
+1036,Osmosis Jones,Bobby Farrelly,Peter Farrelly,nan,95,2001,6.3,57
+1037,The Commuter,Jaume Collet-Serra,nan,nan,104,2018,6.3,56
+1038,#Saraitda,Il Ch,nan,nan,98,2020,6.3,nan
+1039,Bastille Day,James Watkin,nan,nan,92,2016,6.3,48
+1040,Risen,Kevin Reynold,nan,nan,107,2016,6.3,51
+1041,Run Hide Fight,Kyle Rankin,nan,nan,109,2020,6.3,13
+1042,My Spy,Peter Segal,nan,nan,99,2020,6.3,46
+1043,Death Wish,Eli Roth,nan,nan,107,2018,6.3,31
+1044,This Means War,McG,nan,nan,103,2012,6.3,31
+1045,Surrogates,Jonathan Mostow,nan,nan,89,2009,6.3,45
+1046,The Black Cauldron,Ted Berman,Richard Rich,nan,80,1985,6.3,59
+1047,Triple 9,John Hillcoa,nan,nan,115,2016,6.3,52
+1048,Paycheck,John W,nan,nan,119,2003,6.3,43
+1049,Blue Streak,Les Mayfield,nan,nan,93,1999,6.3,46
+1050,Centurion,Neil Marshall,nan,nan,97,2010,6.3,62
+1051,Mr. Right,Paco Cabeza,nan,nan,95,2015,6.3,52
+1052,Free Fire,Ben Wheatley,nan,nan,91,2016,6.3,63
+1053,Escape from the Planet of the Apes,n Tayl,nan,nan,98,1971,6.3,69
+1054,Johnny English Reborn,Oliver Park,nan,nan,101,2011,6.3,46
+1055,Nick of Time,John Badham,nan,nan,90,1995,6.3,nan
+1056,The Dead Pool,Buddy Van Horn,nan,nan,91,1988,6.3,46
+1057,Repo Men,Miguel Sapochnik,nan,nan,111,2010,6.3,32
+1058,Underworld: Awakening,Måns Mårlind,Björn Stein,nan,88,2012,6.3,39
+1059,Assassins,Richard Donn,nan,nan,133,1995,6.3,nan
+1060,Proof of Life,Taylor Hackford,nan,nan,135,2000,6.3,45
+1061,Assault on Precinct 13,Jean-François Rich,nan,nan,109,2005,6.3,54
+1062,The Necessary Death of Charlie Countryman,Fredrik Bond,nan,nan,103,2013,6.3,31
+1063,The 51st State,Ronny Yu,nan,nan,93,2001,6.3,23
+1064,7500,Patrick Vollrath,nan,nan,93,2019,6.3,58
+1065,ARQ,Tony Ell,nan,nan,88,2016,6.3,nan
+1066,Toofaan,Rakeysh Omprakash Mehra,nan,nan,163,2021,6.3,nan
+1067,Ant-Man and the Wasp: Quantumania,Peyton Reed,nan,nan,124,2023,6.2,48
+1068,Thor: Love and Thunder,Taika Wa,nan,nan,118,2022,6.2,57
+1069,Kindergarten Cop,Ivan Reitman,nan,nan,111,1990,6.2,61
+1070,Pearl Harbor,Michael Bay,nan,nan,183,2001,6.2,44
+1071,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,nan,nan,122,2008,6.2,65
+1072,Dick Tracy,Warren Beatty,nan,nan,105,1990,6.2,68
+1073,Terminator: Dark Fate,Tim Mill,nan,nan,128,2019,6.2,54
+1074,Knowing,Alex Proya,nan,nan,121,2009,6.2,41
+1075,Transformers: Dark of the Moon,Michael Bay,nan,nan,154,2011,6.2,42
+1076,The Karate Kid,Harald Zwa,nan,nan,140,2010,6.2,61
+1077,The Legend of Tarzan,avid Ya,nan,nan,110,2016,6.2,44
+1078,Men in Black II,Barry Sonnenfeld,nan,nan,88,2002,6.2,49
+1079,Austin Powers in Goldmember,Jay Roach,nan,nan,94,2002,6.2,62
+1080,Hitman,Xavier Gen,nan,nan,100,2007,6.2,35
+1081,Kate,Cedric Nicolas-Troyan,nan,nan,106,2021,6.2,47
+1082,Alien Resurrection,Jean-Pierre Jeun,nan,nan,109,1997,6.2,63
+1083,300: Rise of an Empire,Noam Mu,nan,nan,102,2014,6.2,48
+1084,Deep Impact,Mimi Led,nan,nan,120,1998,6.2,40
+1085,In the Shadow of the Moon,Jim Mickl,nan,nan,115,2019,6.2,48
+1086,Inferno,Ron Howard,nan,nan,121,2016,6.2,42
+1087,Total Recall,Len Wiseman,nan,nan,118,2012,6.2,43
+1088,Zathura: A Space Adventure,Jon Favreau,nan,nan,101,2005,6.2,67
+1089,3 Days to Kill,McG,nan,nan,117,2014,6.2,40
+1090,Dracula Untold,Gary Sh,nan,nan,92,2014,6.2,40
+1091,Parker,Taylor Hackford,nan,nan,118,2013,6.2,42
+1092,47 Ronin,Carl Rinsch,nan,nan,128,2013,6.2,28
+1093,Reign of Fire,Rob Bowman,nan,nan,101,2002,6.2,39
+1094,Time Trap,Mark Denn,Ben Foster,nan,87,2017,6.2,46
+1095,Maze Runner: The Death Cure,Wes Ball,nan,nan,143,2018,6.2,50
+1096,The Losers,Sylvain Wh,nan,nan,97,2010,6.2,44
+1097,The Cannonball Run,Hal Needham,nan,nan,95,1981,6.2,28
+1098,Keanu,Peter Aten,nan,nan,100,2016,6.2,63
+1099,Small Soldiers,Joe Dan,nan,nan,108,1998,6.2,nan
+1100,Jack the Giant Slayer,Bryan Sing,nan,nan,114,2013,6.2,51
+1101,Spenser Confidential,Peter Berg,nan,nan,111,2020,6.2,49
+1102,Taken 2,Olivier Megaton,nan,nan,92,2012,6.2,45
+1103,Grimsby,Louis L,nan,nan,83,2016,6.2,44
+1104,Deliver Us from Evil,Scott Derrickson,nan,nan,118,2014,6.2,40
+1105,Takers,John Luessenhop,nan,nan,107,2010,6.2,45
+1106,Hard Target,John W,nan,nan,97,1993,6.2,63
+1107,Transcendence,Wally Pf,nan,nan,119,2014,6.2,42
+1108,Insurgent,Robert Schwentk,nan,nan,119,2015,6.2,42
+1109,Walking Tall,Kevin Bray,nan,nan,86,2004,6.2,44
+1110,Rush Hour 3,Brett Ratn,nan,nan,91,2007,6.2,44
+1111,American Assassin,Michael Cuesta,nan,nan,111,2017,6.2,45
+1112,Mad Max Beyond Thunderdome,George Mill,George Ogilvie,nan,107,1985,6.2,71
+1113,Copshop,Joe Carnahan,nan,nan,107,2021,6.2,61
+1114,Cold Pursuit,Hans Petter Moland,nan,nan,119,2019,6.2,57
+1115,War,Philip G. Atwell,nan,nan,103,2007,6.2,36
+1116,The Wall,ug Liman,nan,nan,88,2017,6.2,57
+1117,Eraser,Chuck Russell,nan,nan,115,1996,6.2,56
+1118,Jack Ryan: Shadow Recruit,Kenneth Branagh,nan,nan,105,2014,6.2,57
+1119,Tower Heist,Brett Ratn,nan,nan,104,2011,6.2,59
+1120,Moonraker,Lewis Gilb,nan,nan,126,1979,6.2,66
+1121,Stuber,Michael Dow,nan,nan,93,2019,6.2,42
+1122,Resident Evil: Extinction,Russell Mulcahy,nan,nan,94,2007,6.2,41
+1123,Next,Lee Tamah,nan,nan,96,2007,6.2,42
+1124,Feast,John Gulag,nan,nan,95,2005,6.2,43
+1125,Death Race 2000,Paul Bartel,nan,nan,80,1975,6.2,58
+1126,The Saint,Phillip Noy,nan,nan,116,1997,6.2,50
+1127,The Silencing,Robin Pron,nan,nan,93,2020,6.2,nan
+1128,Johnny English,Peter How,nan,nan,89,2003,6.2,51
+1129,The Outsider,Martin Zandvl,nan,nan,120,2018,6.2,30
+1130,The November Man,Roger Donaldson,nan,nan,108,2014,6.2,38
+1131,Hummingbird,Steven Knigh,nan,nan,100,2013,6.2,43
+1132,Blown Away,Stephen Hopkin,nan,nan,121,1994,6.2,nan
+1133,Astro Boy,avid Bow,nan,nan,94,2009,6.2,53
+1134,The Toxic Avenger,Michael Herz,Lloyd Kaufman,nan,82,1984,6.2,42
+1135,Lionheart,Sheldon Lettich,nan,nan,108,1990,6.2,41
+1136,Rogue,Greg McLean,nan,nan,99,2007,6.2,nan
+1137,Captain Underpants: The First Epic Movie,avid Soren,nan,nan,89,2017,6.2,69
+1138,The Devil's Own,Alan J. Pakula,nan,nan,111,1997,6.2,53
+1139,Outlander,Howard McCain,nan,nan,115,2008,6.2,40
+1140,Shanghai Knights,avid Dobkin,nan,nan,114,2003,6.2,58
+1141,Loaded Weapon 1,Gene Quintan,nan,nan,84,1993,6.2,30
+1142,Rising Sun,Philip Kaufman,nan,nan,125,1993,6.2,56
+1143,Kung Pow: Enter the Fist,Steve Oedekerk,nan,nan,81,2002,6.2,14
+1144,TMNT,Kevin Mun,nan,nan,87,2007,6.2,41
+1145,Johnny English Strikes Again,avid K,nan,nan,89,2018,6.2,39
+1146,Destroyer,Karyn Kusama,nan,nan,121,2018,6.2,62
+1147,Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,Kunihiko Yuyama,nan,nan,96,1998,6.2,35
+1148,The Eagle,Kevin Macdonald,nan,nan,114,2011,6.2,55
+1149,The Boondock Saints II: All Saints Day,Troy Duffy,nan,nan,118,2009,6.2,24
+1150,After the Sunset,Brett Ratn,nan,nan,97,2004,6.2,38
+1151,Last Knights,Kazuaki Kiriya,nan,nan,115,2015,6.2,27
+1152,Money Talks,Brett Ratn,nan,nan,97,1997,6.2,nan
+1153,A Lonely Place to Die,Julian Gilbey,nan,nan,99,2011,6.2,nan
+1154,Yat goh ho yan,Sammo Kam-Bo Hung,nan,nan,101,1997,6.2,nan
+1155,The Warrior's Way,Sngmoo L,nan,nan,100,2010,6.2,45
+1156,Tomiris,Akan Satayev,nan,nan,156,2019,6.2,nan
+1157,Ong Bak 2,Tony Jaa,Panna Rittikrai,nan,98,2008,6.2,47
+1158,Dabangg,Abhinav Kashyap,nan,nan,126,2010,6.2,nan
+1159,The Lost City,Aaron N,Adam Nee,nan,112,2022,6.1,60
+1160,Jurassic World: Fallen Kingdom,J.A. Bayona,nan,nan,128,2018,6.1,51
+1161,Day Shift,J.J. Perry,nan,nan,113,2022,6.1,51
+1162,Mission: Impossible II,John W,nan,nan,123,2000,6.1,59
+1163,Ambulance,Michael Bay,nan,nan,136,2022,6.1,55
+1164,6 Underground,Michael Bay,nan,nan,128,2019,6.1,41
+1165,Rampage,Brad Peyton,nan,nan,107,2018,6.1,45
+1166,Justice League,Zack Snyd,nan,nan,120,2017,6.1,45
+1167,Lou,Anna F,nan,nan,107,2022,6.1,51
+1168,Jack Reacher: Never Go Back,Edward Zwick,nan,nan,118,2016,6.1,47
+1169,Lightyear,Angus MacLan,nan,nan,105,2022,6.1,60
+1170,Mortal Engines,Christian Riv,nan,nan,128,2018,6.1,44
+1171,San Andreas,Brad Peyton,nan,nan,114,2015,6.1,43
+1172,Superman Returns,Bryan Sing,nan,nan,154,2006,6.1,72
+1173,Rambo: Last Blood,Adrian Grunberg,nan,nan,89,2019,6.1,26
+1174,RoboCop,José Padilha,nan,nan,117,2014,6.1,52
+1175,The Expendables 3,Patrick Hugh,nan,nan,126,2014,6.1,35
+1176,I Am Number Four,.J. Caru,nan,nan,111,2011,6.1,36
+1177,Lifeforce,Tobe Hoop,nan,nan,101,1985,6.1,50
+1178,Snow White and the Huntsman,Rupert Sand,nan,nan,127,2012,6.1,57
+1179,Jumper,ug Liman,nan,nan,88,2008,6.1,35
+1180,Hitman's Wife's Bodyguard,Patrick Hugh,nan,nan,100,2021,6.1,32
+1181,Mile 22,Peter Berg,nan,nan,94,2018,6.1,38
+1182,Blood Red Sky,Peter Thorwarth,nan,nan,121,2021,6.1,43
+1183,Die Another Day,Lee Tamah,nan,nan,133,2002,6.1,56
+1184,Code 8,Jeff Chan,nan,nan,98,2019,6.1,48
+1185,The Huntsman: Winter's War,Cedric Nicolas-Troyan,nan,nan,114,2016,6.1,35
+1186,Crawl,Alexandre Aja,nan,nan,87,2019,6.1,60
+1187,Days of Thunder,Tony S,nan,nan,107,1990,6.1,60
+1188,Vampires,John Carpen,nan,nan,108,1998,6.1,42
+1189,Resident Evil: Apocalypse,Alexander W,nan,nan,94,2004,6.1,35
+1190,Dora and the Lost City of Gold,James Bobin,nan,nan,102,2019,6.1,63
+1191,The Karate Kid Part II,John G. Avildsen,nan,nan,113,1986,6.1,55
+1192,The Sentinel,Clark Johnson,nan,nan,108,2006,6.1,49
+1193,The Postman,Kevin Costn,nan,nan,177,1997,6.1,29
+1194,Krull,Peter Ya,nan,nan,116,1983,6.1,45
+1195,The Protégé,Martin Campbell,nan,nan,109,2021,6.1,48
+1196,The Sorcerer's Apprentice,Jon Turteltaub,nan,nan,109,2010,6.1,46
+1197,Mystery Men,Kinka Ush,nan,nan,121,1999,6.1,65
+1198,Never Say Never Again,Irvin Kershn,nan,nan,134,1983,6.1,68
+1199,The Girl in the Spider's Web,Fede Alvarez,nan,nan,115,2018,6.1,43
+1200,The Collection,Marcus Dunstan,nan,nan,82,2012,6.1,38
+1201,Push,Paul McGuigan,nan,nan,111,2009,6.1,36
+1202,Hansel & Gretel: Witch Hunters,Tommy Wirkola,nan,nan,88,2013,6.1,23
+1203,Blitz,Elliott L,nan,nan,97,2011,6.1,nan
+1204,Universal Soldier,Roland Emmerich,nan,nan,102,1992,6.1,35
+1205,Crank: High Voltage,Mark Neveldin,Brian Taylor,nan,96,2009,6.1,41
+1206,Sky Captain and the World of Tomorrow,Kerry Conran,nan,nan,106,2004,6.1,64
+1207,Deep Rising,Stephen Somm,nan,nan,106,1998,6.1,nan
+1208,Broken Arrow,John W,nan,nan,108,1996,6.1,61
+1209,Romeo Must Die,Andrzej Bartkowiak,nan,nan,115,2000,6.1,52
+1210,Windtalkers,John W,nan,nan,134,2002,6.1,51
+1211,Hit and Run,avid Palm,Dax Shepard,nan,100,2012,6.1,50
+1212,Red State,Kevin Smith,nan,nan,88,2011,6.1,50
+1213,Red Heat,Walter Hill,nan,nan,104,1988,6.1,61
+1214,American Ultra,Nima Nourizadeh,nan,nan,96,2015,6.1,50
+1215,The Promise,Terry Georg,nan,nan,133,2016,6.1,49
+1216,Heist,Scott Mann,nan,nan,93,2015,6.1,37
+1217,Sphere,Barry Levinson,nan,nan,134,1998,6.1,35
+1218,Ride Along,Tim Story,nan,nan,99,2014,6.1,41
+1219,Point of No Return,John Badham,nan,nan,109,1993,6.1,53
+1220,Big Stan,Rob Schneid,nan,nan,105,2007,6.1,nan
+1221,Hotel Artemis,w Pea,nan,nan,94,2018,6.1,58
+1222,The Jewel of the Nile,Lewis Teagu,nan,nan,106,1985,6.1,53
+1223,Solomon Kane,M.J. Ba,nan,nan,104,2009,6.1,48
+1224,Broken City,Allen Hugh,nan,nan,109,2013,6.1,49
+1225,30 Minutes or Less,Ruben Fleisch,nan,nan,83,2011,6.1,49
+1226,Murder at 1600,wight H. Littl,nan,nan,107,1997,6.1,47
+1227,Mercury Rising,Harold Beck,nan,nan,111,1998,6.1,37
+1228,Ironclad,Jonathan English,nan,nan,121,2011,6.1,42
+1229,Hobo with a Shotgun,Jason Eisen,nan,nan,86,2011,6.1,55
+1230,Flight of the Phoenix,John M,nan,nan,113,2004,6.1,47
+1231,Conquest of the Planet of the Apes,J. Lee Thompson,nan,nan,88,1972,6.1,49
+1232,"Tomorrow, When the War Began",Stuart Bea,nan,nan,104,2010,6.1,54
+1233,Gringo,Nash Edgerton,nan,nan,111,2018,6.1,46
+1234,Undisputed,Walter Hill,nan,nan,96,2002,6.1,58
+1235,The Replacement Killers,Antoine Fuqua,nan,nan,87,1998,6.1,42
+1236,Seeking Justice,Roger Donaldson,nan,nan,105,2011,6.1,38
+1237,15 Minutes,John Herzfeld,nan,nan,120,2001,6.1,34
+1238,The Lovebirds,Michael Showal,nan,nan,86,2020,6.1,59
+1239,Chennai Express,Rohit Shetty,nan,nan,141,2013,6.1,45
+1240,Antitrust,Peter How,nan,nan,108,2001,6.1,31
+1241,Welcome to the Punch,Eran Creevy,nan,nan,99,2013,6.1,49
+1242,Thunivu,H. Vinoth,nan,nan,146,2023,6.1,nan
+1243,Sooryavanshi,Rohit Shetty,nan,nan,145,2021,6.1,nan
+1244,2.0,S. Shanka,nan,nan,148,2018,6.1,nan
+1245,Shazam! Fury of the Gods,avid F. Sandberg,nan,nan,130,2023,6.0,47
+1246,The Fast and the Furious: Tokyo Drift,Justin Lin,nan,nan,104,2006,6.0,45
+1247,Mortal Kombat,Simon McQuoid,nan,nan,110,2021,6.0,44
+1248,Murder Mystery,Kyle Newacheck,nan,nan,97,2019,6.0,38
+1249,Van Helsing,Stephen Somm,nan,nan,131,2004,6.0,35
+1250,Exodus: Gods and Kings,Ridley S,nan,nan,150,2014,6.0,52
+1251,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,Cathy Yan,nan,nan,109,2020,6.0,60
+1252,Godzilla: King of the Monsters,Michael Dougherty,nan,nan,132,2019,6.0,48
+1253,Unhinged,k B,nan,nan,90,2020,6.0,40
+1254,Sucker Punch,Zack Snyd,nan,nan,110,2011,6.0,33
+1255,Immortals,Tarsem Singh,nan,nan,110,2011,6.0,46
+1256,Hercules,Brett Ratn,nan,nan,98,2014,6.0,47
+1257,Those Who Wish Me Dead,Taylor Sheridan,nan,nan,100,2021,6.0,59
+1258,Dante's Peak,Roger Donaldson,nan,nan,108,1997,6.0,43
+1259,The Tourist,Florian Henckel von Donnersmarck,nan,nan,103,2010,6.0,37
+1260,Gunpowder Milkshake,Navot Papushad,nan,nan,114,2021,6.0,47
+1261,Speed Racer,Lana Wachowsk,Lilly Wachowski,nan,135,2008,6.0,37
+1262,Miami Vice,Michael Mann,nan,nan,132,2006,6.0,66
+1263,Taken 3,Olivier Megaton,nan,nan,108,2014,6.0,26
+1264,Don't Breathe 2,Rodo Sayagu,nan,nan,98,2021,6.0,46
+1265,S.W.A.T.,Clark Johnson,nan,nan,117,2003,6.0,45
+1266,Sahara,Breck Eisn,nan,nan,124,2005,6.0,41
+1267,The Time Machine,Simon Well,nan,nan,96,2002,6.0,42
+1268,Project Power,Henry J,Ariel Schulman,nan,113,2020,6.0,51
+1269,G.I. Jane,Ridley S,nan,nan,125,1997,6.0,62
+1270,Cowboys & Aliens,Jon Favreau,nan,nan,119,2011,6.0,50
+1271,Beneath the Planet of the Apes,Ted P,nan,nan,95,1970,6.0,46
+1272,Transporter 3,Olivier Megaton,nan,nan,104,2008,6.0,51
+1273,Honest Thief,Mark William,nan,nan,99,2020,6.0,46
+1274,The Spy Who Dumped Me,Susanna Fogel,nan,nan,117,2018,6.0,52
+1275,The Purge: Election Year,James DeMona,nan,nan,108,2016,6.0,55
+1276,CHIPS,ax Shepard,nan,nan,100,2017,6.0,28
+1277,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,nan,nan,88,1991,6.0,45
+1278,Captive State,Rupert Wya,nan,nan,109,2019,6.0,54
+1279,The Lego Ninjago Movie,Charlie Bean,Paul Fisher,Bob Logan,101,2017,6.0,55
+1280,Autómata,Gabe Ibáñez,nan,nan,109,2014,6.0,37
+1281,A Man Apart,F. Gary Gray,nan,nan,109,2003,6.0,36
+1282,Soldier,Paul W.S. Anderson,nan,nan,99,1998,6.0,nan
+1283,Above the Law,Andrew Dav,nan,nan,99,1988,6.0,45
+1284,The Net,Irwin Winkl,nan,nan,114,1995,6.0,51
+1285,Valhalla Rising,Nicolas Winding Refn,nan,nan,93,2009,6.0,61
+1286,First Knight,Jerry Zuck,nan,nan,134,1995,6.0,57
+1287,The Big Hit,Kirk Wong,nan,nan,91,1998,6.0,31
+1288,The Hunted,William Friedkin,nan,nan,94,2003,6.0,40
+1289,Shaft,John Singleton,nan,nan,99,2000,6.0,50
+1290,Erased,Philipp Stölzl,nan,nan,100,2012,6.0,34
+1291,The Peacemaker,Mimi Led,nan,nan,124,1997,6.0,43
+1292,Firestarter,Mark L. L,nan,nan,114,1984,6.0,50
+1293,The Shadow,Russell Mulcahy,nan,nan,108,1994,6.0,50
+1294,Jimmy Neutron: Boy Genius,John A. Dav,nan,nan,82,2001,6.0,65
+1295,Varisu,Vamshi Paidipally,nan,nan,169,2023,6.0,nan
+1296,The Condemned,Scott Wip,nan,nan,114,2007,6.0,23
+1297,Carriers,avid Pa,Àlex Pastor,nan,85,2009,6.0,nan
+1298,The Tournament,Scott Mann,nan,nan,95,2009,6.0,nan
+1299,Wrongfully Accused,Pat Prof,nan,nan,87,1998,6.0,nan
+1300,The Machine,Caradog W. Jam,nan,nan,91,2013,6.0,52
+1301,Lockout,James Math,Steve Saint Leger,nan,95,2012,6.0,48
+1302,Bird on a Wire,John Badham,nan,nan,110,1990,6.0,36
+1303,K-9,Rod Daniel,nan,nan,101,1989,6.0,44
+1304,Thick as Thieves,Mimi Led,nan,nan,104,2009,6.0,nan
+1305,Man of Tai Chi,Keanu Reev,nan,nan,105,2013,6.0,52
+1306,Kick,Sajid Nadiadwala,nan,nan,146,2014,6.0,nan
+1307,2 Fast 2 Furious,John Singleton,nan,nan,107,2003,5.9,38
+1308,Suicide Squad,avid Ay,nan,nan,123,2016,5.9,40
+1309,Venom: Let There Be Carnage,Andy Serk,nan,nan,97,2021,5.9,49
+1310,Deep Blue Sea,Renny Harlin,nan,nan,105,1999,5.9,54
+1311,Conan the Destroyer,Richard Fleisch,nan,nan,103,1984,5.9,53
+1312,Power Rangers,an Israel,nan,nan,124,2017,5.9,44
+1313,Transformers: Revenge of the Fallen,Michael Bay,nan,nan,149,2009,5.9,35
+1314,Pathaan,Siddharth Anand,nan,nan,146,2023,5.9,47
+1315,Underwater,William Eubank,nan,nan,95,2020,5.9,48
+1316,The Last Witch Hunter,Breck Eisn,nan,nan,106,2015,5.9,34
+1317,The Great Wall,Yimou Zhang,nan,nan,103,2016,5.9,42
+1318,Liu lang di qiu,Frant Gw,nan,nan,125,2019,5.9,57
+1319,Jurassic Park III,Joe Johnston,nan,nan,92,2001,5.9,42
+1320,Teenage Mutant Ninja Turtles: Out of the Shadows,ave Green,nan,nan,112,2016,5.9,40
+1321,Into the Blue,John Stockwell,nan,nan,110,2005,5.9,45
+1322,London Has Fallen,Babak Najaf,nan,nan,99,2016,5.9,28
+1323,The 6th Day,Roger Spottiswood,nan,nan,123,2000,5.9,49
+1324,Iron Sky,Timo Vuorensola,nan,nan,93,2012,5.9,nan
+1325,Six Days Seven Nights,Ivan Reitman,nan,nan,102,1998,5.9,51
+1326,The Rookie,Clint Eastwood,nan,nan,120,1990,5.9,41
+1327,The Brothers Grimm,Terry Gilliam,nan,nan,118,2005,5.9,51
+1328,Doomsday,Neil Marshall,nan,nan,113,2008,5.9,51
+1329,Star Wars: The Clone Wars,ave Filon,nan,nan,98,2008,5.9,35
+1330,The Black Hole,Gary Nelson,nan,nan,98,1979,5.9,52
+1331,The Golden Child,Michael Ritch,nan,nan,94,1986,5.9,37
+1332,Passenger 57,Kevin Hook,nan,nan,84,1992,5.9,50
+1333,Vertical Limit,Martin Campbell,nan,nan,124,2000,5.9,48
+1334,Keeping Up with the Joneses,Greg Mottola,nan,nan,105,2016,5.9,34
+1335,The Legend of Zorro,Martin Campbell,nan,nan,129,2005,5.9,47
+1336,Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,nan,nan,105,2012,5.9,42
+1337,Daylight,Rob Cohen,nan,nan,114,1996,5.9,47
+1338,The One,James Wong,nan,nan,87,2001,5.9,25
+1339,Punisher: War Zone,Lexi Alexand,nan,nan,103,2008,5.9,30
+1340,The Fan,Tony S,nan,nan,116,1996,5.9,32
+1341,Firefox,Clint Eastwood,nan,nan,136,1982,5.9,44
+1342,Braven,Lin Oeding,nan,nan,94,2018,5.9,61
+1343,Domino,Tony S,nan,nan,127,2005,5.9,36
+1344,Red Tails,Anthony Hemingway,nan,nan,125,2012,5.9,46
+1345,Timecop,Peter Hyam,nan,nan,99,1994,5.9,48
+1346,Gone,Heitor Dhalia,nan,nan,94,2012,5.9,36
+1347,Undercover Brother,Malcolm D. L,nan,nan,86,2002,5.9,69
+1348,3000 Miles to Graceland,mian Lichtenstein,nan,nan,125,2001,5.9,21
+1349,Another 48 Hrs.,Walter Hill,nan,nan,95,1990,5.9,23
+1350,Fatman,Eshom Nelm,Ian Nelms,nan,100,2020,5.9,40
+1351,Ride Along 2,Tim Story,nan,nan,102,2016,5.9,32
+1352,Men at Work,Emilio Estevez,nan,nan,98,1990,5.9,34
+1353,Kidnap,Luis P,nan,nan,95,2017,5.9,44
+1354,Fortress,Stuart Gordon,nan,nan,95,1992,5.9,48
+1355,Sanctum,Alister Grierson,nan,nan,108,2011,5.9,42
+1356,Hard Rain,Mikael Salomon,nan,nan,97,1998,5.9,36
+1357,The Double,Michael Brand,nan,nan,98,2011,5.9,37
+1358,Tiger Zinda Hai,Mehmet Tutkun,Ali Abbas Zafar,Musa Muhammed Olayinka,161,2017,5.9,nan
+1359,Ghosted,xter Fletch,nan,nan,116,2023,5.8,34
+1360,The School for Good and Evil,Paul Feig,nan,nan,147,2022,5.8,30
+1361,Army of the Dead,Zack Snyd,nan,nan,148,2021,5.8,57
+1362,Oldboy,Spike L,nan,nan,104,2013,5.8,49
+1363,Battleship,Peter Berg,nan,nan,131,2012,5.8,41
+1364,The League of Extraordinary Gentlemen,Stephen Norrington,nan,nan,110,2003,5.8,30
+1365,2012,Roland Emmerich,nan,nan,158,2009,5.8,49
+1366,xXx,Rob Cohen,nan,nan,124,2002,5.8,48
+1367,Clash of the Titans,Louis L,nan,nan,106,2010,5.8,39
+1368,The Man from Toronto,Patrick Hugh,nan,nan,110,2022,5.8,34
+1369,Teenage Mutant Ninja Turtles,Jonathan Liebesman,nan,nan,101,2014,5.8,31
+1370,Haywire,Steven Soderbergh,nan,nan,93,2011,5.8,67
+1371,Species,Roger Donaldson,nan,nan,108,1995,5.8,49
+1372,Mortal Kombat,Paul W.S. Anderson,nan,nan,101,1995,5.8,60
+1373,Noah,arren Aronofsky,nan,nan,138,2014,5.8,68
+1374,Troll,Roar Uthaug,nan,nan,101,2022,5.8,62
+1375,End of Days,Peter Hyam,nan,nan,122,1999,5.8,33
+1376,Cobra,George P. Cosma,nan,nan,87,1986,5.8,25
+1377,Hollow Man,Paul Verhoeven,nan,nan,112,2000,5.8,24
+1378,Journey to the Center of the Earth,Eric Brevig,nan,nan,93,2008,5.8,57
+1379,Blade: Trinity,avid S. Goy,nan,nan,113,2004,5.8,38
+1380,Pride and Prejudice and Zombies,Burr S,nan,nan,108,2016,5.8,45
+1381,The Host,Andrew Niccol,nan,nan,125,2013,5.8,35
+1382,Lake Placid,Steve Min,nan,nan,82,1999,5.8,34
+1383,Without Remorse,Stefano Sollima,nan,nan,109,2021,5.8,41
+1384,The Mortal Instruments: City of Bones,Harald Zwa,nan,nan,130,2013,5.8,33
+1385,Extinction,Ben Young,nan,nan,95,2018,5.8,40
+1386,RoboCop 2,Irvin Kershn,nan,nan,117,1990,5.8,42
+1387,Wild Hogs,Walt Beck,nan,nan,100,2007,5.8,27
+1388,Straw Dogs,Rod Lu,nan,nan,110,2011,5.8,45
+1389,Rambo III,Peter MacDonald,nan,nan,102,1988,5.8,36
+1390,Over the Top,Menahem Golan,nan,nan,93,1987,5.8,40
+1391,1941,Steven Spielberg,nan,nan,118,1979,5.8,34
+1392,Resident Evil: Afterlife,Paul W.S. Anderson,nan,nan,96,2010,5.8,37
+1393,Around the World in 80 Days,Frank Cora,nan,nan,120,2004,5.8,49
+1394,Skyscraper,Rawson Marshall Thurb,nan,nan,102,2018,5.8,51
+1395,Morgan,Luke S,nan,nan,92,2016,5.8,48
+1396,Into the Storm,Steven Qual,nan,nan,89,2014,5.8,44
+1397,Striking Distance,Rowdy Herrington,nan,nan,102,1993,5.8,36
+1398,The Green Hornet,Michel Gondry,nan,nan,119,2011,5.8,39
+1399,Hard to Kill,Bruce Malmuth,nan,nan,96,1990,5.8,41
+1400,Reindeer Games,John Frankenheim,nan,nan,104,2000,5.8,37
+1401,Sudden Death,Peter Hyam,nan,nan,111,1995,5.8,nan
+1402,The Gunman,Pierre Morel,nan,nan,115,2015,5.8,39
+1403,Cirque du Freak: The Vampire's Assistant,Paul Weitz,nan,nan,119,2009,5.8,43
+1404,Cradle 2 the Grave,Andrzej Bartkowiak,nan,nan,101,2003,5.8,36
+1405,Air America,Roger Spottiswood,nan,nan,113,1990,5.8,33
+1406,Bulletproof,Ernest R. Dickerson,nan,nan,84,1996,5.8,30
+1407,Firewall,Richard Loncrain,nan,nan,105,2006,5.8,45
+1408,Taxi 3,Gérard Krawczyk,nan,nan,84,2003,5.8,nan
+1409,Samrat Prithviraj,Chandra Prakash Dwived,nan,nan,135,2022,5.8,nan
+1410,Murder Mystery 2,Jeremy Garelick,nan,nan,90,2023,5.7,44
+1411,Mechanic: Resurrection,nnis Gansel,nan,nan,98,2016,5.7,38
+1412,The Matrix Resurrections,Lana Wachowsk,nan,nan,148,2021,5.7,63
+1413,Mulan,Niki Ca,nan,nan,115,2020,5.7,66
+1414,Escape Room: Tournament of Champions,Adam Robitel,nan,nan,88,2021,5.7,48
+1415,G.I. Joe: Retaliation,Jon M. Chu,nan,nan,110,2013,5.7,41
+1416,G.I. Joe: The Rise of Cobra,Stephen Somm,nan,nan,118,2009,5.7,32
+1417,Planet of the Apes,Tim Burton,nan,nan,119,2001,5.7,50
+1418,Memory,Martin Campbell,nan,nan,114,2022,5.7,41
+1419,Dark Phoenix,Simon Kinberg,nan,nan,113,2019,5.7,43
+1420,Pan,Joe Wrigh,nan,nan,111,2015,5.7,36
+1421,The Three Musketeers,Paul W.S. Anderson,nan,nan,110,2011,5.7,35
+1422,Samaritan,Julius Avery,nan,nan,102,2022,5.7,45
+1423,Freddy vs. Jason,Ronny Yu,nan,nan,97,2003,5.7,37
+1424,Bloodshot,ave Wilson,nan,nan,109,2020,5.7,44
+1425,Fantastic Four,Tim Story,nan,nan,106,2005,5.7,40
+1426,Chaos Walking,ug Liman,nan,nan,109,2021,5.7,38
+1427,Hitman: Agent 47,Aleksander Bach,nan,nan,96,2015,5.7,28
+1428,Underworld: Blood Wars,Anna F,nan,nan,91,2016,5.7,23
+1429,Lara Croft: Tomb Raider,Simon W,nan,nan,100,2001,5.7,33
+1430,Buffy the Vampire Slayer,Fran Rubel Kuzu,nan,nan,86,1992,5.7,48
+1431,Journey 2: The Mysterious Island,Brad Peyton,nan,nan,94,2012,5.7,41
+1432,Only God Forgives,Nicolas Winding Refn,nan,nan,90,2013,5.7,37
+1433,Fool's Gold,Andy Tennan,nan,nan,112,2008,5.7,29
+1434,Cutthroat Island,Renny Harlin,nan,nan,124,1995,5.7,37
+1435,Allegiant,Robert Schwentk,nan,nan,120,2016,5.7,33
+1436,The Darkest Minds,Jennifer Yuh Nelson,nan,nan,104,2018,5.7,39
+1437,Gemini Man,Ang L,nan,nan,117,2019,5.7,38
+1438,Wrath of the Titans,Jonathan Liebesman,nan,nan,99,2012,5.7,37
+1439,Gamer,Mark Neveldin,Brian Taylor,nan,95,2009,5.7,27
+1440,Escape from L.A.,John Carpen,nan,nan,101,1996,5.7,54
+1441,The Do-Over,Steven Brill,nan,nan,108,2016,5.7,22
+1442,Poseidon,Wolfgang Petersen,nan,nan,98,2006,5.7,50
+1443,Battle: Los Angeles,Jonathan Liebesman,nan,nan,116,2011,5.7,37
+1444,Beckett,Ferdinando Cito Filomarin,nan,nan,110,2021,5.7,52
+1445,Cooties,Jonathan Mil,Cary Murnion,nan,88,2014,5.7,49
+1446,Race to Witch Mountain,Andy Fickman,nan,nan,98,2009,5.7,52
+1447,Priest,Scott Stewa,nan,nan,87,2011,5.7,41
+1448,Mighty Joe Young,Ron Underwood,nan,nan,114,1998,5.7,51
+1449,Sabotage,avid Ay,nan,nan,109,2014,5.7,41
+1450,Crocodile Dundee II,John Cornell,nan,nan,108,1988,5.7,41
+1451,Ben-Hur,Timur Bekmambetov,nan,nan,123,2016,5.7,38
+1452,Close,Vicky Jewson,nan,nan,94,2019,5.7,51
+1453,Bullet to the Head,Walter Hill,nan,nan,92,2012,5.7,48
+1454,Bandidas,Joachim Rønning,Espen Sandberg,nan,93,2006,5.7,nan
+1455,Hudson Hawk,Michael Lehmann,nan,nan,100,1991,5.7,17
+1456,Drillbit Taylor,Steven Brill,nan,nan,110,2008,5.7,41
+1457,Money Train,Joseph Ruben,nan,nan,110,1995,5.7,nan
+1458,Red Planet,Antony Hoffman,nan,nan,106,2000,5.7,34
+1459,Nowhere to Run,Robert Harmon,nan,nan,94,1993,5.7,41
+1460,The Art of War,Christian Duguay,nan,nan,117,2000,5.7,30
+1461,Armored,Nimród Antal,nan,nan,88,2009,5.7,50
+1462,The Meg,Jon Turteltaub,nan,nan,113,2018,5.6,46
+1463,Strange World,n Hall,Qui Nguyen,nan,102,2022,5.6,65
+1464,Jurassic World Dominion,Colin Trevorrow,nan,nan,147,2022,5.6,38
+1465,Transformers: Age of Extinction,Michael Bay,nan,nan,165,2014,5.6,32
+1466,Beast,Baltasar Kormáku,nan,nan,93,2022,5.6,54
+1467,Hulk,Ang L,nan,nan,138,2003,5.6,54
+1468,Last Seen Alive,Brian Goodman,nan,nan,95,2022,5.6,nan
+1469,Charlie's Angels,McG,nan,nan,98,2000,5.6,52
+1470,Spy Kids,Robert Rodriguez,nan,nan,88,2001,5.6,71
+1471,Pixels,Chris Columbu,nan,nan,105,2015,5.6,27
+1472,The Marksman,Robert Lorenz,nan,nan,108,2021,5.6,44
+1473,R.I.P.D.,Robert Schwentk,nan,nan,96,2013,5.6,25
+1474,The Pacifier,Adam Shankman,nan,nan,95,2005,5.6,30
+1475,Men in Black: International,F. Gary Gray,nan,nan,114,2019,5.6,38
+1476,Alexander,Oliver Ston,nan,nan,175,2004,5.6,40
+1477,You Don't Mess with the Zohan,nnis Dugan,nan,nan,113,2008,5.6,54
+1478,Pacific Rim: Uprising,Steven S. DeKnigh,nan,nan,111,2018,5.6,44
+1479,The Dark Tower,Nikolaj Arcel,nan,nan,95,2017,5.6,34
+1480,AVP: Alien vs. Predator,Paul W.S. Anderson,nan,nan,101,2004,5.6,29
+1481,Assassin's Creed,Justin Kurzel,nan,nan,115,2016,5.6,36
+1482,Hold the Dark,Jeremy Sauln,nan,nan,125,2018,5.6,63
+1483,Judge Dredd,anny Cannon,nan,nan,96,1995,5.6,nan
+1484,Johnny Mnemonic,Robert Long,nan,nan,103,1995,5.6,36
+1485,Wild Card,Simon W,nan,nan,92,2015,5.6,40
+1486,Machete Kills,Robert Rodriguez,nan,nan,107,2013,5.6,41
+1487,4: Rise of the Silver Surfer,Tim Story,nan,nan,92,2007,5.6,45
+1488,The Specialist,Luis Llosa,nan,nan,110,1994,5.6,nan
+1489,Timeline,Richard Donn,nan,nan,116,2003,5.6,28
+1490,Double Impact,Sheldon Lettich,nan,nan,110,1991,5.6,40
+1491,The Ice Road,Jonathan Hensleigh,nan,nan,109,2021,5.6,42
+1492,Brahmastra Part One: Shiva,Ayan Mukerj,nan,nan,167,2022,5.6,57
+1493,Raw Deal,John Irvin,nan,nan,106,1986,5.6,44
+1494,Jolt,Tanya Wexl,nan,nan,91,2021,5.6,48
+1495,Jay and Silent Bob Reboot,Kevin Smith,nan,nan,105,2019,5.6,46
+1496,National Security,nnis Dugan,nan,nan,88,2003,5.6,31
+1497,The Pink Panther 2,Harald Zwa,nan,nan,92,2009,5.6,36
+1498,Chain Reaction,Andrew Dav,nan,nan,107,1996,5.6,43
+1499,Brick Mansions,Camille Delama,nan,nan,90,2014,5.6,40
+1500,Bad Company,Joel Schumach,nan,nan,116,2002,5.6,37
+1501,MacGruber,Jorma Taccon,nan,nan,90,2010,5.6,43
+1502,The Skulls,Rob Cohen,nan,nan,106,2000,5.6,24
+1503,Exit Wounds,Andrzej Bartkowiak,nan,nan,101,2001,5.6,39
+1504,Fire with Fire,avid Ba,nan,nan,97,2012,5.6,nan
+1505,Survivor,James McTeigu,nan,nan,96,2015,5.6,28
+1506,The Quest,Jean-Claude Van Damm,nan,nan,95,1996,5.6,nan
+1507,Sleepless,Baran bo Oda,nan,nan,95,2017,5.6,34
+1508,12 Rounds,Renny Harlin,nan,nan,108,2009,5.6,38
+1509,The Contract,Bruce Beresford,nan,nan,96,2006,5.6,nan
+1510,Metro,Thomas Ca,nan,nan,117,1997,5.6,41
+1511,Bang Bang,Siddharth Anand,nan,nan,153,2014,5.6,nan
+1512,Ek Tha Tiger,Mathur Goswam,Kabir Khan,nan,132,2012,5.6,nan
+1513,The Mother,Niki Ca,nan,nan,115,2023,5.5,45
+1514,Baywatch,Seth Gordon,nan,nan,116,2017,5.5,37
+1515,Willy's Wonderland,Kevin Lew,nan,nan,88,2021,5.5,44
+1516,Green Lantern,Martin Campbell,nan,nan,114,2011,5.5,39
+1517,Beverly Hills Cop III,John Land,nan,nan,104,1994,5.5,16
+1518,The Scorpion King,Chuck Russell,nan,nan,92,2002,5.5,45
+1519,The 355,Simon Kinberg,nan,nan,122,2022,5.5,40
+1520,The Cloverfield Paradox,Julius Onah,nan,nan,102,2018,5.5,37
+1521,George of the Jungle,Sam Weisman,nan,nan,92,1997,5.5,53
+1522,The Core,Jon Amiel,nan,nan,135,2003,5.5,48
+1523,Resident Evil: The Final Chapter,Paul W.S. Anderson,nan,nan,107,2016,5.5,49
+1524,Snakes on a Plane,avid R. Ell,nan,nan,105,2006,5.5,58
+1525,Under Siege 2: Dark Territory,Geoff Murphy,nan,nan,100,1995,5.5,52
+1526,Sweet Girl,Brian Andrew Mendoza,nan,nan,110,2021,5.5,46
+1527,Your Highness,avid Gordon Green,nan,nan,102,2011,5.5,31
+1528,Virtuosity,Brett Leonard,nan,nan,106,1995,5.5,39
+1529,Lara Croft: Tomb Raider - The Cradle of Life,Jan de Bon,nan,nan,117,2003,5.5,43
+1530,Busanhaeng 2: Bando,Sang-ho Yeon,nan,nan,116,2020,5.5,51
+1531,Collateral Damage,Andrew Dav,nan,nan,108,2002,5.5,33
+1532,Seventh Son,Sergei Bodrov,nan,nan,102,2014,5.5,30
+1533,Mortdecai,avid Koepp,nan,nan,107,2015,5.5,27
+1534,Volcano,Mick Jackson,nan,nan,104,1997,5.5,55
+1535,Star Trek V: The Final Frontier,William Shatn,nan,nan,107,1989,5.5,43
+1536,Eight Legged Freaks,Ellory Elkayem,nan,nan,99,2002,5.5,53
+1537,Pompeii,Paul W.S. Anderson,nan,nan,105,2014,5.5,39
+1538,The Bounty Hunter,Andy Tennan,nan,nan,110,2010,5.5,22
+1539,Babylon A.D.,Mathieu Kassovitz,nan,nan,90,2008,5.5,26
+1540,Beverly Hills Ninja,nnis Dugan,nan,nan,88,1997,5.5,27
+1541,Whiteout,minic Sena,nan,nan,101,2009,5.5,nan
+1542,Cop Out,Kevin Smith,nan,nan,107,2010,5.5,31
+1543,Fighting,Montiel,nan,nan,105,2009,5.5,61
+1544,Stolen,Simon W,nan,nan,96,2012,5.5,43
+1545,Showtime,Tom Dey,nan,nan,95,2002,5.5,32
+1546,The Man,Les Mayfield,nan,nan,83,2005,5.5,33
+1547,Taxi 4,Gérard Krawczyk,nan,nan,91,2007,5.5,nan
+1548,Gunjan Saxena: The Kargil Girl,ALi Khan AK,Sharan Sharma,nan,112,2020,5.5,nan
+1549,65,Scott Beck,Bryan Woods,nan,93,2023,5.4,40
+1550,Shotgun Wedding,Jason M,nan,nan,101,2022,5.4,46
+1551,Gods of Egypt,Alex Proya,nan,nan,127,2016,5.4,25
+1552,Wonder Woman 1984,Patty Jenkin,nan,nan,151,2020,5.4,60
+1553,The Mummy,Alex Kurtzman,nan,nan,111,2017,5.4,34
+1554,Infinite,Antoine Fuqua,nan,nan,106,2021,5.4,28
+1555,Batman Forever,Joel Schumach,nan,nan,121,1995,5.4,51
+1556,Spiderhead,Joseph Kosinsk,nan,nan,106,2022,5.4,54
+1557,The Forever Purge,Everardo Gou,nan,nan,103,2021,5.4,53
+1558,Ava,Tate Tayl,nan,nan,96,V) (2020,5.4,39
+1559,Godzilla,Roland Emmerich,nan,nan,139,1998,5.4,32
+1560,Big Game,Jalmari Heland,nan,nan,90,2014,5.4,53
+1561,Snake Eyes: G.I. Joe Origins,Robert Schwentk,nan,nan,121,2021,5.4,43
+1562,Drive Angry,Patrick Lu,nan,nan,104,2011,5.4,44
+1563,Maximum Overdrive,Stephen King,nan,nan,98,1986,5.4,24
+1564,"Game Over, Man!",Kyle Newacheck,nan,nan,101,2018,5.4,32
+1565,Æon Flux,Karyn Kusama,nan,nan,93,2005,5.4,36
+1566,Vampire Academy,Mark Wa,nan,nan,104,2014,5.4,31
+1567,Blackhat,Michael Mann,nan,nan,133,2015,5.4,51
+1568,Killers,Robert Luk,nan,nan,100,2010,5.4,21
+1569,The Happytime Murders,Brian Henson,nan,nan,91,2018,5.4,27
+1570,Outside the Wire,Mikael Håfström,nan,nan,114,2021,5.4,45
+1571,Pathfinder,Marcus Nispel,nan,nan,99,2007,5.4,29
+1572,The Last Legion,ug Lefl,nan,nan,101,2007,5.4,37
+1573,Season of the Witch,minic Sena,nan,nan,95,2011,5.4,28
+1574,The Man with the Iron Fists,RZA,nan,nan,95,2012,5.4,51
+1575,The Spy Next Door,Brian Levan,nan,nan,94,2010,5.4,27
+1576,D3: The Mighty Ducks,Robert Lieberman,nan,nan,104,1996,5.4,nan
+1577,The Tuxedo,Kevin Donovan,nan,nan,98,2002,5.4,30
+1578,Battle for the Planet of the Apes,J. Lee Thompson,nan,nan,93,1973,5.4,40
+1579,Bulletproof Monk,Paul Hun,nan,nan,104,2003,5.4,40
+1580,I Spy,Betty Thoma,nan,nan,97,2002,5.4,35
+1581,Killing Season,Mark Steven Johnson,nan,nan,91,2013,5.4,25
+1582,Dhoom:3,Vijay Krishna Acharya,nan,nan,172,2013,5.4,61
+1583,Masters of the Universe,Gary Goddard,nan,nan,106,1987,5.3,35
+1584,The Predator,Shane Black,nan,nan,107,2018,5.3,48
+1585,Jupiter Ascending,Lana Wachowsk,Lilly Wachowski,nan,127,2015,5.3,40
+1586,Ghost Rider,Mark Steven Johnson,nan,nan,110,2007,5.3,35
+1587,Robin Hood,Otto Bathu,nan,nan,116,2018,5.3,32
+1588,Geostorm,an Devlin,nan,nan,109,2017,5.3,21
+1589,Point Break,Ericson C,nan,nan,114,2015,5.3,34
+1590,Daredevil,Mark Steven Johnson,nan,nan,103,2003,5.3,42
+1591,The New Mutants,Josh Boon,nan,nan,94,2020,5.3,43
+1592,Resident Evil: Retribution,Paul W.S. Anderson,nan,nan,95,2012,5.3,39
+1593,Tank Girl,Rachel Talalay,nan,nan,104,1995,5.3,46
+1594,Max Payne,John M,nan,nan,100,2008,5.3,31
+1595,Congo,Frank Marshall,nan,nan,109,1995,5.3,22
+1596,The Karate Kid Part III,John G. Avildsen,nan,nan,112,1989,5.3,36
+1597,Red Dawn,an Bradley,nan,nan,93,2012,5.3,31
+1598,Spy Kids 2: Island of Lost Dreams,Robert Rodriguez,nan,nan,100,2002,5.3,66
+1599,Land of the Lost,Brad Silberling,nan,nan,102,2009,5.3,32
+1600,One for the Money,Julie Anne Robinson,nan,nan,91,2012,5.3,22
+1601,Spy Hard,Rick Friedberg,nan,nan,81,1996,5.3,25
+1602,Hollywood Homicide,Ron Shelton,nan,nan,116,2003,5.3,47
+1603,The Colony,Jeff Renf,nan,nan,95,2013,5.3,28
+1604,Bangkok Dangerous,anny Pang,Oxide Chun Pang,nan,99,2008,5.3,24
+1605,Universal Soldier: Regeneration,John Hyam,nan,nan,97,2009,5.3,70
+1606,The Way to Paradise,Enzo Zelocch,nan,nan,85,2011,5.3,nan
+1607,F9,Justin Lin,nan,nan,143,2021,5.2,58
+1608,Transformers: The Last Knight,Michael Bay,nan,nan,154,2017,5.2,27
+1609,The Covenant,Renny Harlin,nan,nan,97,2006,5.2,19
+1610,Morbius,aniel Espinosa,nan,nan,104,2022,5.2,35
+1611,xXx: Return of Xander Cage,.J. Caru,nan,nan,107,2017,5.2,42
+1612,Legion,Scott Stewa,nan,nan,100,2010,5.2,32
+1613,Hellboy,Neil Marshall,nan,nan,120,2019,5.2,31
+1614,Resident Evil: Welcome to Raccoon City,Johannes Rob,nan,nan,107,2021,5.2,44
+1615,Spawn,Mark A.Z. Dippé,nan,nan,96,1997,5.2,34
+1616,The Mummy: Tomb of the Dragon Emperor,Rob Cohen,nan,nan,112,2008,5.2,31
+1617,Independence Day: Resurgence,Roland Emmerich,nan,nan,120,2016,5.2,32
+1618,The 5th Wave,J Blakeson,nan,nan,112,2016,5.2,33
+1619,Monster Hunter,Paul W.S. Anderson,nan,nan,103,2020,5.2,47
+1620,The Bad Batch,Ana Lily Amirpou,nan,nan,118,2016,5.2,62
+1621,Mighty Morphin Power Rangers: The Movie,Bryan Sp,nan,nan,95,1995,5.2,40
+1622,Lost in Space,Stephen Hopkin,nan,nan,130,1998,5.2,42
+1623,Doom,Andrzej Bartkowiak,nan,nan,105,2005,5.2,34
+1624,A Good Day to Die Hard,John M,nan,nan,98,2013,5.2,28
+1625,Big Momma's House,Raja Gosnell,nan,nan,99,2000,5.2,33
+1626,The Transporter Refueled,Camille Delama,nan,nan,96,2015,5.2,32
+1627,Paul Blart: Mall Cop,Steve Ca,nan,nan,91,2009,5.2,39
+1628,The First Purge,Gerard McMurray,nan,nan,97,2018,5.2,54
+1629,The Medallion,Gordon Chan,nan,nan,88,2003,5.2,38
+1630,Mutant Chronicles,Simon Hun,nan,nan,111,2008,5.2,nan
+1631,Beast,Nelson Dilipkuma,nan,nan,155,2022,5.2,nan
+1632,Bachchhan Paandey,Farhad Samj,nan,nan,147,2022,5.2,nan
+1633,Moonfall,Roland Emmerich,nan,nan,130,2022,5.1,41
+1634,Conan the Barbarian,Marcus Nispel,nan,nan,113,2011,5.1,36
+1635,Red Sonja,Richard Fleisch,nan,nan,89,1985,5.1,35
+1636,Eragon,Stefen Fangm,nan,nan,104,2006,5.1,38
+1637,"10,000 BC",Roland Emmerich,nan,nan,109,2008,5.1,34
+1638,"I, Frankenstein",Stuart Bea,nan,nan,92,2014,5.1,30
+1639,G-Force,Hoyt Yeatman,nan,nan,88,2009,5.1,41
+1640,Agent Cody Banks,Harald Zwa,nan,nan,102,2003,5.1,41
+1641,Abduction,John Singleton,nan,nan,106,2011,5.1,25
+1642,Cats & Dogs,Lawrence Guterman,nan,nan,87,2001,5.1,47
+1643,Miss Congeniality 2: Armed & Fabulous,John Pasquin,nan,nan,115,2005,5.1,34
+1644,Get Carter,Stephen Kay,nan,nan,102,2000,5.1,24
+1645,Stealth,Rob Cohen,nan,nan,121,2005,5.1,35
+1646,Alex Cross,Rob Cohen,nan,nan,101,2012,5.1,30
+1647,Stormbreaker,Geoffrey Sax,nan,nan,93,2006,5.1,42
+1648,Hot Pursuit,Anne Fletch,nan,nan,87,2015,5.1,31
+1649,How It Ends,avid M. Rosenthal,nan,nan,113,2018,5.0,36
+1650,Charlie's Angels,Elizabeth Bank,nan,nan,118,2019,5.0,52
+1651,Superman III,Richard L,nan,nan,125,1983,5.0,44
+1652,The Twilight Saga: Eclipse,avid Slad,nan,nan,124,2010,5.0,58
+1653,See No Evil,Gregory Dark,nan,nan,84,2006,5.0,17
+1654,Cyborg,Albert Pyun,nan,nan,86,1989,5.0,24
+1655,Shadow in the Cloud,Roseanne Liang,nan,nan,83,2020,5.0,66
+1656,The Phantom,Simon Win,nan,nan,100,1996,5.0,53
+1657,Virus,John Brun,nan,nan,99,1999,5.0,19
+1658,Dilwale,Rohit Shetty,nan,nan,158,2015,5.0,nan
+1659,The Darkest Hour,Chris Gorak,nan,nan,89,2011,4.9,18
+1660,Charlie's Angels: Full Throttle,McG,nan,nan,106,2003,4.9,48
+1661,Dracula 2000,Patrick Lu,nan,nan,99,2000,4.9,26
+1662,Wild Wild West,Barry Sonnenfeld,nan,nan,106,1999,4.9,38
+1663,The Cold Light of Day,Mabrouk El Mech,nan,nan,93,2012,4.9,22
+1664,Ghosts of Mars,John Carpen,nan,nan,98,2001,4.9,35
+1665,Blues Brothers 2000,John Land,nan,nan,123,1998,4.9,nan
+1666,Happy New Year,Farah Khan,nan,nan,180,2014,4.9,nan
+1667,Anaconda,Luis Llosa,nan,nan,89,1997,4.8,37
+1668,The Ridiculous 6,Frank Cora,nan,nan,119,2015,4.8,18
+1669,After Earth,M. Night Shyamalan,nan,nan,100,2013,4.8,33
+1670,DOA: Dead or Alive,Corey Yuen,nan,nan,87,2006,4.8,38
+1671,Teenage Mutant Ninja Turtles III,Stuart Gillard,nan,nan,96,1993,4.8,40
+1672,Tekken,wight H. Littl,nan,nan,91,2010,4.8,nan
+1673,Double Team,Hark Tsu,nan,nan,93,1997,4.8,44
+1674,Crocodile Dundee in Los Angeles,Simon Win,nan,nan,95,2001,4.8,37
+1675,Godsend,Frank M. Cal,Nick Hamm,nan,102,2004,4.8,24
+1676,Howard the Duck,Willard Huyck,nan,nan,110,1986,4.7,28
+1677,Zoolander 2,Ben Still,nan,nan,101,2016,4.7,34
+1678,Elektra,Rob Bowman,nan,nan,97,2005,4.7,34
+1679,The Spirit,Frank Mill,nan,nan,103,2008,4.7,30
+1680,The Marine,John Bon,nan,nan,92,2006,4.7,45
+1681,Jonah Hex,Jimmy Hayward,nan,nan,81,2010,4.7,33
+1682,Anacondas: The Hunt for the Blood Orchid,wight H. Littl,nan,nan,97,2004,4.7,40
+1683,Ra.One,Anubhav Sinha,nan,nan,156,2011,4.7,60
+1684,Shamshera,Karan Malhotra,nan,nan,178,2022,4.7,nan
+1685,Bodyguard,Siddiqu,nan,nan,130,2011,4.7,41
+1686,Bharat,Ali Abbas Zafa,nan,nan,150,2019,4.7,nan
+1687,Superhero Movie,Craig Mazin,nan,nan,75,2008,4.6,33
+1688,Interceptor,Matthew Reilly,nan,nan,99,2022,4.6,51
+1689,Shehzada,Rohit Dhawan,nan,nan,142,2023,4.6,nan
+1690,AVPR: Aliens vs Predator - Requiem,Colin Strau,Greg Strause,nan,94,2007,4.6,29
+1691,Snatched,Jonathan Levin,nan,nan,90,2017,4.6,45
+1692,Driven,Renny Harlin,nan,nan,116,2001,4.6,29
+1693,Thunder Force,Ben Falcon,nan,nan,106,2021,4.5,34
+1694,Species II,Peter Medak,nan,nan,93,1998,4.5,19
+1695,Home Alone 3,Raja Gosnell,nan,nan,102,1997,4.5,nan
+1696,Taxi,Tim Story,nan,nan,97,2004,4.5,27
+1697,Skyline,Colin Strau,Greg Strause,nan,92,2010,4.5,26
+1698,xXx: State of the Union,Lee Tamah,nan,nan,101,2005,4.5,37
+1699,Kangaroo Jack,avid McNally,nan,nan,89,2003,4.5,16
+1700,The Next Karate Kid,Christopher Cain,nan,nan,107,1994,4.5,36
+1701,Jason X,James Isaa,nan,nan,92,2001,4.4,25
+1702,Cell,Tod William,nan,nan,98,2016,4.4,38
+1703,Paul Blart: Mall Cop 2,Andy Fickman,nan,nan,94,2015,4.4,13
+1704,"Big Mommas: Like Father, Like Son",John Whitesell,nan,nan,107,2011,4.4,22
+1705,Fantastic Four,Josh Trank,nan,nan,100,2015,4.3,27
+1706,Spy Kids 3: Game Over,Robert Rodriguez,nan,nan,84,2003,4.3,57
+1707,Ghost Rider: Spirit of Vengeance,Mark Neveldin,Brian Taylor,nan,96,2011,4.3,34
+1708,Ultraviolet,Kurt Wimm,nan,nan,88,2006,4.3,18
+1709,Stop! Or My Mom Will Shoot,Roger Spottiswood,nan,nan,87,1992,4.3,nan
+1710,Inspector Gadget,avid Kellogg,nan,nan,78,1999,4.2,36
+1711,Highlander II: The Quickening,Russell Mulcahy,nan,nan,91,1991,4.2,31
+1712,Universal Soldier: The Return,Mic Rodg,nan,nan,83,1999,4.2,24
+1713,The Legend of Hercules,Renny Harlin,nan,nan,99,2014,4.2,22
+1714,Coolie No. 1,avid Dhawan,nan,nan,134,2020,4.2,nan
+1715,Torque,Joseph Kahn,nan,nan,84,2004,4.1,41
+1716,RoboCop 3,Fred Dekk,nan,nan,104,1993,4.1,40
+1717,The Last Airbender,M. Night Shyamalan,nan,nan,103,2010,4.0,20
+1718,Street Fighter,Steven E. de Souza,nan,nan,102,1994,4.0,34
+1719,Speed 2: Cruise Control,Jan de Bon,nan,nan,121,1997,3.9,23
+1720,In the Name of the King: A Dungeon Siege Tale,Uwe Boll,nan,nan,127,2007,3.8,15
+1721,The Avengers,Jeremiah S. Chechik,nan,nan,89,1998,3.8,12
+1722,Escape Plan 2: Hades,Steven C. Mill,nan,nan,96,2018,3.8,nan
+1723,The Adventures of Pluto Nash,Ron Underwood,nan,nan,95,2002,3.8,12
+1724,Batman & Robin,Joel Schumach,nan,nan,125,1997,3.7,28
+1725,The Adventures of Sharkboy and Lavagirl 3-D,Robert Rodriguez,nan,nan,93,2005,3.7,38
+1726,Superman IV: The Quest for Peace,Sidney J. Fu,nan,nan,90,1987,3.7,24
+1727,Dungeons & Dragons,Courtney Solomon,nan,nan,107,2000,3.6,14
+1728,Mortal Kombat: Annihilation,John R. Leon,nan,nan,95,1997,3.6,11
+1729,Krym,Aleksey Pimanov,nan,nan,99,2017,3.6,nan
+1730,Barb Wire,avid Hogan,nan,nan,98,1996,3.5,40
+1731,Spy Kids 4: All the Time in the World,Robert Rodriguez,nan,nan,89,2011,3.5,37
+1732,Catwoman,Pitof,nan,nan,104,2004,3.4,27
+1733,Left Behind,Vic Armstrong,nan,nan,110,2014,3.1,12
+1734,Rollerball,John McTiernan,nan,nan,98,2002,3.1,14
+1735,BloodRayne,Uwe Boll,nan,nan,95,2005,2.9,18
+1736,Liger,Puri Jagannadh,nan,nan,140,2022,2.7,nan
+1737,Gunday,Ali Abbas Zafa,nan,nan,152,2014,2.7,nan
+1738,Dragonball Evolution,James Wong,nan,nan,85,2009,2.5,45
+1739,Battlefield Earth,Roger Christian,nan,nan,118,2000,2.5,9
+1740,Heropanti 2,Ahmed Khan,nan,nan,145,2022,2.5,nan
+1741,Laxmii,Raghava Lawren,Balakrishnan Thevar,nan,141,2020,2.5,nan
+1742,Alone in the Dark,Uwe Boll,nan,nan,99,2005,2.4,9
+1743,The Prototype,Marcelo Grion,nan,nan,97,2022,2.4,nan
+1744,House of the Dead,Uwe Boll,nan,nan,90,2003,2.1,15
+1745,Radhe,Prabhu Deva,nan,nan,109,2021,1.9,nan
+1746,Race 3,Remo D'Souza,nan,nan,160,2018,1.9,nan
+1747,Angels Apocalypse,Sean Cain,Enzo Zelocchi,nan,85,2015,1.7,nan
+1748,Elk*rtuk,Keith English,nan,nan,125,2021,1.5,nan
+1749,Sadak 2,Mahesh Bha,nan,nan,133,2020,1.2,nan
